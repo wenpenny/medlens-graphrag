@@ -1,0 +1,3536 @@
+[
+  {
+    "id": "ent_bd0391e9",
+    "title": "对乙酰氨基酚片",
+    "type": "Drug",
+    "description": "商品名泰诺林，有效成分为对乙酰氨基酚，剂型片剂，规格0.5g，用于普通感冒流感发热、头痛牙痛",
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_ca2456dc",
+    "title": "对乙酰氨基酚",
+    "type": "Ingredient",
+    "description": "对乙酰氨基酚片的有效成分；解热镇痛成分；对乙酰氨基酚混悬液的有效成分",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_2_0",
+      "tu_doc_18_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_3f07f7b2",
+    "title": "泰诺林",
+    "type": "Drug",
+    "description": "对乙酰氨基酚片的商品名",
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c0167048",
+    "title": "普通感冒",
+    "type": "Disease",
+    "description": "对乙酰氨基酚片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9bd246a2",
+    "title": "流感",
+    "type": "Disease",
+    "description": "对乙酰氨基酚片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_1b78cd6b",
+    "title": "发热",
+    "type": "Symptom",
+    "description": "对乙酰氨基酚片缓解的症状之一；布洛芬缓释胶囊缓解的症状之一；感冒常见症状；适应症之一；萘普生片缓解的症状；偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_1_0",
+      "tu_doc_9_0",
+      "tu_doc_19_0",
+      "tu_doc_31_0",
+      "tu_doc_47_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_09ce3c91",
+    "title": "头痛",
+    "type": "Symptom",
+    "description": "对乙酰氨基酚片缓解的症状之一；少见不良反应；多潘立酮片可能引起的不良反应；偶见的不良反应；双氯芬酸钠缓释胶囊可能引起的不良反应",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_5_0",
+      "tu_doc_14_0",
+      "tu_doc_22_0",
+      "tu_doc_30_0",
+      "tu_doc_43_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_7de216e8",
+    "title": "牙痛",
+    "type": "Symptom",
+    "description": "对乙酰氨基酚片缓解的症状之一；双氯芬酸钠缓释胶囊的适应症之一",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_30_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_9e1e961e",
+    "title": "严重肝肾功能不全",
+    "type": "Contraindication",
+    "description": "对乙酰氨基酚片的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f315a684",
+    "title": "孕妇",
+    "type": "Population",
+    "description": "对乙酰氨基酚片慎用人群；慎用藿香正气胶囊的人群；多潘立酮片慎用人群；葡萄糖酸钙口服液可用于孕妇；禁用利巴韦林颗粒的人群；孕妇禁用甲硝唑；孕妇慎用马来酸氯苯那敏片；禁用人群；慎用二甲双胍的人群；禁用辛伐他汀片的人群；使用硝苯地平缓释片需慎用的人群；美托洛尔片慎用的人群；禁用格列齐特片的人群；孕妇慎用阿司匹林；双氯芬酸钠缓释胶囊慎用人群；萘普生片慎用于孕妇；乳果糖口服溶液可用的人群；慎用呋塞米片；慎用螺内酯片；禁忌人群；比索洛尔片慎用的人群；慎用阿卡波糖片的人群；妊娠期女性；孕妇使用布地奈德混悬液需谨慎；慎用特布他林的人群；需要慎用该药物的人群",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_7_0",
+      "tu_doc_10_0",
+      "tu_doc_14_0",
+      "tu_doc_15_0",
+      "tu_doc_16_0",
+      "tu_doc_17_0",
+      "tu_doc_20_0",
+      "tu_doc_21_0",
+      "tu_doc_23_0",
+      "tu_doc_24_0",
+      "tu_doc_25_0",
+      "tu_doc_26_0",
+      "tu_doc_27_0",
+      "tu_doc_28_0",
+      "tu_doc_29_0",
+      "tu_doc_30_0",
+      "tu_doc_31_0",
+      "tu_doc_32_0",
+      "tu_doc_33_0",
+      "tu_doc_34_0",
+      "tu_doc_35_0",
+      "tu_doc_36_0",
+      "tu_doc_37_0",
+      "tu_doc_38_0",
+      "tu_doc_39_0",
+      "tu_doc_40_0",
+      "tu_doc_41_0",
+      "tu_doc_42_0",
+      "tu_doc_43_0",
+      "tu_doc_44_0",
+      "tu_doc_45_0",
+      "tu_doc_46_0",
+      "tu_doc_47_0",
+      "tu_doc_48_0"
+    ],
+    "frequency": 35
+  },
+  {
+    "id": "ent_e20b54dd",
+    "title": "哺乳期",
+    "type": "Population",
+    "description": "对乙酰氨基酚片慎用人群；哺乳期禁用甲硝唑；禁用人群；萘普生片慎用于哺乳期妇女",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_10_0",
+      "tu_doc_17_0",
+      "tu_doc_23_0",
+      "tu_doc_31_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_d109d50c",
+    "title": "恶心",
+    "type": "Symptom",
+    "description": "对乙酰氨基酚片偶见不良反应；多潘立酮片治疗的适应症之一；偶见恶心副作用；萘普生片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_14_0",
+      "tu_doc_17_0",
+      "tu_doc_31_0",
+      "tu_doc_34_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_b092a5e1",
+    "title": "乏力",
+    "type": "Symptom",
+    "description": "对乙酰氨基酚片偶见不良反应；偶见的不良反应之一；利巴韦林颗粒可能引起的副作用；美托洛尔片偶见的不良反应；比索洛尔片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_6_0",
+      "tu_doc_16_0",
+      "tu_doc_23_0",
+      "tu_doc_27_0",
+      "tu_doc_40_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_51df7057",
+    "title": "肝病",
+    "type": "Disease",
+    "description": "对乙酰氨基酚片不宜长期服用的疾病；老人肝病需减量；孕妇肝病禁用；肝病患者慎用；禁忌症",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_22_0",
+      "tu_doc_25_0",
+      "tu_doc_37_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_baaeb51f",
+    "title": "肾病",
+    "type": "Disease",
+    "description": "对乙酰氨基酚片不宜长期服用的疾病；肾脏疾病，高钙血症患者慎用；二甲双胍的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_4_0",
+      "tu_doc_24_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_7f2e794b",
+    "title": "酒精",
+    "type": "Food",
+    "description": "服药期间禁酒；服药及停药7天内禁酒；服药禁酒，忌辛辣饮酒；与二甲双胍有冲突的食物；与格列齐特片联用有冲突；忌酒精刺激；与阿卡波糖片联用有冲突；与瑞格列奈片联用有冲突；与头孢曲松钠存在冲突，需禁酒7天",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_10_0",
+      "tu_doc_11_0",
+      "tu_doc_17_0",
+      "tu_doc_18_0",
+      "tu_doc_24_0",
+      "tu_doc_28_0",
+      "tu_doc_29_0",
+      "tu_doc_37_0",
+      "tu_doc_41_0",
+      "tu_doc_42_0",
+      "tu_doc_47_0",
+      "tu_doc_48_0"
+    ],
+    "frequency": 13
+  },
+  {
+    "id": "ent_aa35a590",
+    "title": "999感冒灵",
+    "type": "Drug",
+    "description": "不可与对乙酰氨基酚片联用的药物",
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_465690fd",
+    "title": "0.5g",
+    "type": "Dosage",
+    "description": "对乙酰氨基酚片规格0.5g；每片规格0.5g；二甲双胍片的规格",
+    "text_unit_ids": [
+      "tu_doc_0_0",
+      "tu_doc_4_0",
+      "tu_doc_24_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_ea8263b9",
+    "title": "布洛芬缓释胶囊",
+    "type": "Drug",
+    "description": "商品名芬必得，主要成分为布洛芬，胶囊剂型每粒0.3g",
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c236b383",
+    "title": "布洛芬",
+    "type": "Ingredient",
+    "description": "布洛芬缓释胶囊的主要成分；布洛芬混悬液的主要成分",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_19_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_ed311022",
+    "title": "关节痛",
+    "type": "Symptom",
+    "description": "布洛芬缓释胶囊缓解的症状之一；双氯芬酸钠缓释胶囊的适应症之一",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_30_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_5149cac7",
+    "title": "痛经",
+    "type": "Symptom",
+    "description": "布洛芬缓释胶囊缓解的症状之一",
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e2fe11f2",
+    "title": "胃溃疡",
+    "type": "Disease",
+    "description": "布洛芬缓释胶囊的禁忌症；治疗适应症；兰索拉唑肠溶片治疗的疾病之一；胃溃疡出血禁用阿司匹林；萘普生片禁用于胃溃疡",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_5_0",
+      "tu_doc_19_0",
+      "tu_doc_22_0",
+      "tu_doc_29_0",
+      "tu_doc_31_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_61e4b82a",
+    "title": "胃痛",
+    "type": "Symptom",
+    "description": "布洛芬缓释胶囊的常见不良反应；胃酸过多的症状之一；双氯芬酸钠缓释胶囊可能引起的不良反应",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_4_0",
+      "tu_doc_30_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_aaade072",
+    "title": "头晕",
+    "type": "Symptom",
+    "description": "布洛芬缓释胶囊的常见不良反应；硝酸甘油常见副作用；偶见的不良反应；美托洛尔片偶见的不良反应；萘普生片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_8_0",
+      "tu_doc_23_0",
+      "tu_doc_27_0",
+      "tu_doc_31_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_9627782a",
+    "title": "高血压",
+    "type": "Disease",
+    "description": "布洛芬缓释胶囊慎用的人群；缬沙坦胶囊治疗的疾病；硝苯地平缓释片治疗的疾病之一；美托洛尔片治疗的疾病之一；非洛地平缓释片治疗的疾病；比索洛尔片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_23_0",
+      "tu_doc_26_0",
+      "tu_doc_27_0",
+      "tu_doc_39_0",
+      "tu_doc_40_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_39737b22",
+    "title": "心衰",
+    "type": "Disease",
+    "description": "布洛芬缓释胶囊慎用的人群；二甲双胍的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_24_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_d75a99dd",
+    "title": "辛辣食物",
+    "type": "Food",
+    "description": "服药期间忌食辛辣；服用双氯芬酸钠缓释胶囊期间忌食辛辣",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_30_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_c6bdd6bb",
+    "title": "阿司匹林",
+    "type": "Drug",
+    "description": "勿与布洛芬同服；不宜联用的药物；阿司匹林肠溶片，用于预防血栓心梗；与双氯芬酸钠缓释胶囊不宜联用的药物",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_19_0",
+      "tu_doc_29_0",
+      "tu_doc_30_0"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ent_6fef65a7",
+    "title": "成人",
+    "type": "Population",
+    "description": "布洛芬缓释胶囊的适用人群；蒙脱石散可用于成人",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_2_0",
+      "tu_doc_3_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_f23d4cea",
+    "title": "老人",
+    "type": "Population",
+    "description": "需减量使用；肝病减量",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_5_0",
+      "tu_doc_22_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_45ad50d4",
+    "title": "儿童",
+    "type": "Population",
+    "description": "需减量使用；蒙脱石散可用于儿童；多潘立酮片慎用人群；葡萄糖酸钙口服液可用于儿童；适用人群；适用人群之一；双氯芬酸钠缓释胶囊慎用人群；乳果糖口服溶液可用的人群；未成年人；儿童使用布地奈德混悬液需谨慎",
+    "text_unit_ids": [
+      "tu_doc_1_0",
+      "tu_doc_3_0",
+      "tu_doc_14_0",
+      "tu_doc_15_0",
+      "tu_doc_18_0",
+      "tu_doc_19_0",
+      "tu_doc_21_0",
+      "tu_doc_30_0",
+      "tu_doc_32_0",
+      "tu_doc_33_0",
+      "tu_doc_34_0",
+      "tu_doc_42_0",
+      "tu_doc_43_0",
+      "tu_doc_44_0"
+    ],
+    "frequency": 14
+  },
+  {
+    "id": "ent_64e79eb0",
+    "title": "复方氨酚烷胺胶囊",
+    "type": "Drug",
+    "description": "复方感冒药，含对乙酰氨基酚与金刚烷胺，商品名快克、感康",
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3bf1e352",
+    "title": "金刚烷胺",
+    "type": "Ingredient",
+    "description": "抗病毒成分",
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7199c9c2",
+    "title": "感冒",
+    "type": "Disease",
+    "description": "常见上呼吸道感染",
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c6f01008",
+    "title": "鼻塞",
+    "type": "Symptom",
+    "description": "感冒症状；感冒常见症状",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_9_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_b205ffdd",
+    "title": "流涕",
+    "type": "Symptom",
+    "description": "感冒症状；感冒常见症状",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_9_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_ee0ceff7",
+    "title": "四肢酸痛",
+    "type": "Symptom",
+    "description": "感冒症状",
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6ac4c35d",
+    "title": "严重肝肾不全",
+    "type": "Contraindication",
+    "description": "严重肝肾功能不全者禁用；严重肝肾功能不全者禁用该药",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_9_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_9e30d071",
+    "title": "嗜睡",
+    "type": "Symptom",
+    "description": "药物副作用；偶见轻微不良反应；基本无嗜睡副作用；马来酸氯苯那敏片易引起嗜睡犯困",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_9_0",
+      "tu_doc_13_0",
+      "tu_doc_20_0"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ent_0b545fc7",
+    "title": "口干",
+    "type": "Symptom",
+    "description": "药物副作用；偶见的不良反应之一；偶见口干副作用；多潘立酮片可能引起的不良反应；马来酸氯苯那敏片偶见口干",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_6_0",
+      "tu_doc_13_0",
+      "tu_doc_14_0",
+      "tu_doc_20_0",
+      "tu_doc_34_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_3986e9fb",
+    "title": "青光眼",
+    "type": "Disease",
+    "description": "眼部疾病；青光眼患者禁用硝酸甘油",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_8_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_ff80def2",
+    "title": "前列腺肥大",
+    "type": "Disease",
+    "description": "男性疾病",
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8df9f402",
+    "title": "酒",
+    "type": "Food",
+    "description": "酒精饮品；禁酒",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_5_0",
+      "tu_doc_8_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_feddd403",
+    "title": "浓茶",
+    "type": "Food",
+    "description": "含咖啡因饮品；少喝，可能与药物冲突；服用葡萄糖酸钙口服液时应少喝浓茶；忌与浓茶同服",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_4_0",
+      "tu_doc_15_0",
+      "tu_doc_22_0"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ent_43c0f406",
+    "title": "复方感冒药",
+    "type": "DrugClass",
+    "description": "其他复方感冒药；不可与复方感冒药联用",
+    "text_unit_ids": [
+      "tu_doc_2_0",
+      "tu_doc_18_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_58736ca7",
+    "title": "蒙脱石散",
+    "type": "Drug",
+    "description": "商品名思密达、必奇，有效成分为蒙脱石，散剂3g每袋，治疗成人儿童急慢性腹泻",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e9acf368",
+    "title": "蒙脱石",
+    "type": "Ingredient",
+    "description": "蒙脱石散的有效成分",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_919b4b42",
+    "title": "思密达",
+    "type": "Drug",
+    "description": "蒙脱石散的商品名之一",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e95cbe73",
+    "title": "必奇",
+    "type": "Drug",
+    "description": "蒙脱石散的商品名之一",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_563eeb35",
+    "title": "腹泻",
+    "type": "Disease",
+    "description": "急慢性腹泻，蒙脱石散治疗的适应症",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_26b7c3c5",
+    "title": "过敏",
+    "type": "Contraindication",
+    "description": "对蒙脱石散过敏者禁用；对兰索拉唑过敏者禁用；过敏者禁用缬沙坦胶囊",
+    "text_unit_ids": [
+      "tu_doc_3_0",
+      "tu_doc_5_0",
+      "tu_doc_12_0",
+      "tu_doc_22_0",
+      "tu_doc_23_0",
+      "tu_doc_34_0",
+      "tu_doc_46_0"
+    ],
+    "frequency": 7
+  },
+  {
+    "id": "ent_ea517086",
+    "title": "便秘",
+    "type": "Symptom",
+    "description": "过量使用蒙脱石散易引发便秘；偶见不良反应；葡萄糖酸钙口服液偶见的不良反应；胰酶肠溶胶囊偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_3_0",
+      "tu_doc_4_0",
+      "tu_doc_15_0",
+      "tu_doc_22_0",
+      "tu_doc_32_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_4c2e2002",
+    "title": "便秘体质",
+    "type": "Population",
+    "description": "便秘体质人群慎用蒙脱石散",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_77b2c23b",
+    "title": "生冷油腻饮食",
+    "type": "Food",
+    "description": "服用蒙脱石散期间忌生冷油腻饮食",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c99d5011",
+    "title": "口服补液盐",
+    "type": "Drug",
+    "description": "可搭配蒙脱石散使用",
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_31cbf594",
+    "title": "铝碳酸镁咀嚼片",
+    "type": "Drug",
+    "description": "商品名达喜，成分铝碳酸镁，咀嚼片0.5g规格",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7173832d",
+    "title": "铝碳酸镁",
+    "type": "Ingredient",
+    "description": "铝碳酸镁咀嚼片的主要成分",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_cd1aa9f1",
+    "title": "胃酸过多",
+    "type": "Symptom",
+    "description": "胃酸过多引起的烧心、反酸、胃痛",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a7572b98",
+    "title": "烧心",
+    "type": "Symptom",
+    "description": "胃酸过多的症状之一",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_23f7582d",
+    "title": "反酸",
+    "type": "Symptom",
+    "description": "胃酸过多的症状之一",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_98a4d6c8",
+    "title": "严重肾衰",
+    "type": "Disease",
+    "description": "严重肾功能衰竭，禁用铝碳酸镁咀嚼片",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_98913dd3",
+    "title": "高钙血症",
+    "type": "Disease",
+    "description": "血钙过高，与肾病相关，慎用铝碳酸镁咀嚼片；葡萄糖酸钙口服液的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_4_0",
+      "tu_doc_15_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_42468900",
+    "title": "腹胀",
+    "type": "Symptom",
+    "description": "偶见不良反应；二甲双胍偶见的不良反应；阿卡波糖片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_4_0",
+      "tu_doc_24_0",
+      "tu_doc_33_0",
+      "tu_doc_41_0"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ent_b2023ff4",
+    "title": "咖啡",
+    "type": "Food",
+    "description": "少喝，可能与药物冲突；服用葡萄糖酸钙口服液时应少喝咖啡；忌与咖啡同服",
+    "text_unit_ids": [
+      "tu_doc_4_0",
+      "tu_doc_15_0",
+      "tu_doc_22_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_6b5a5884",
+    "title": "碳酸饮料",
+    "type": "Food",
+    "description": "少喝，可能与药物冲突",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e1d5d08b",
+    "title": "抗生素",
+    "type": "DrugClass",
+    "description": "不与铝碳酸镁咀嚼片同服；可与氨溴索口服溶液联用的药物类别；可与氨溴索注射液联用",
+    "text_unit_ids": [
+      "tu_doc_4_0",
+      "tu_doc_12_0",
+      "tu_doc_46_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_ae312cb4",
+    "title": "一次1至2片咀嚼服用一日3次",
+    "type": "Dosage",
+    "description": "用法用量",
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9aac5ea3",
+    "title": "奥美拉唑肠溶胶囊",
+    "type": "Drug",
+    "description": "商品名洛赛克，有效成分为奥美拉唑，胶囊20mg",
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_ddc78a71",
+    "title": "奥美拉唑",
+    "type": "Ingredient",
+    "description": "有效成分",
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_05849ee8",
+    "title": "反流性食管炎",
+    "type": "Disease",
+    "description": "治疗适应症；兰索拉唑肠溶片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_5_0",
+      "tu_doc_22_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_27dd9e8d",
+    "title": "严重肝损",
+    "type": "Disease",
+    "description": "禁忌症",
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8dbbe411",
+    "title": "腹泻",
+    "type": "Symptom",
+    "description": "少见不良反应；偶见腹泻；枸橼酸莫沙必利片偶见的不良反应；二甲双胍偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_5_0",
+      "tu_doc_11_0",
+      "tu_doc_21_0",
+      "tu_doc_24_0",
+      "tu_doc_33_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_e809604d",
+    "title": "肝病患者",
+    "type": "Population",
+    "description": "需减量",
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_278e3119",
+    "title": "氯吡格雷",
+    "type": "Drug",
+    "description": "慎与联用；不与氯吡格雷联用；抗血小板药物，用于预防血栓和心梗",
+    "text_unit_ids": [
+      "tu_doc_5_0",
+      "tu_doc_22_0",
+      "tu_doc_37_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_cd3fe137",
+    "title": "辛辣",
+    "type": "Food",
+    "description": "禁辛辣",
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3228cbb3",
+    "title": "暴饮暴食",
+    "type": "Risk",
+    "description": "避免暴饮暴食；多潘立酮片使用期间应避免的行为",
+    "text_unit_ids": [
+      "tu_doc_5_0",
+      "tu_doc_14_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_4936c3ba",
+    "title": "20mg",
+    "type": "Dosage",
+    "description": "胶囊20mg；片剂规格20mg；螺内酯片每片剂量20mg",
+    "text_unit_ids": [
+      "tu_doc_5_0",
+      "tu_doc_25_0",
+      "tu_doc_35_0",
+      "tu_doc_36_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_01ca63c0",
+    "title": "氯雷他定片",
+    "type": "Drug",
+    "description": "商品名开瑞坦，成分为氯雷他定，片剂10mg",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_db341d27",
+    "title": "氯雷他定",
+    "type": "Ingredient",
+    "description": "氯雷他定片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_88d4d29c",
+    "title": "过敏性鼻炎",
+    "type": "Disease",
+    "description": "氯雷他定片用于治疗过敏性鼻炎；左西替利嗪片缓解的疾病之一；一种过敏性疾病",
+    "text_unit_ids": [
+      "tu_doc_6_0",
+      "tu_doc_13_0",
+      "tu_doc_43_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_43558b22",
+    "title": "荨麻疹",
+    "type": "Disease",
+    "description": "氯雷他定片用于治疗荨麻疹；左西替利嗪片缓解的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_6_0",
+      "tu_doc_13_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_d62dc188",
+    "title": "皮肤瘙痒",
+    "type": "Symptom",
+    "description": "氯雷他定片用于缓解皮肤瘙痒",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_53202005",
+    "title": "过敏者",
+    "type": "Population",
+    "description": "对氯雷他定过敏的人群禁用；对左西替利嗪片过敏的人群；对非洛地平过敏的人群；禁用人群；对药物成分过敏的人群；对布地奈德混悬液过敏的人群，禁用",
+    "text_unit_ids": [
+      "tu_doc_6_0",
+      "tu_doc_13_0",
+      "tu_doc_39_0",
+      "tu_doc_42_0",
+      "tu_doc_43_0",
+      "tu_doc_44_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_61fe6a9a",
+    "title": "肝肾功能不全人群",
+    "type": "Population",
+    "description": "肝肾功能不全者需减量服用",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e2ae17c3",
+    "title": "海鲜",
+    "type": "Food",
+    "description": "服用氯雷他定片期间应少吃海鲜；发物，建议少吃",
+    "text_unit_ids": [
+      "tu_doc_6_0",
+      "tu_doc_13_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_4e7d83c3",
+    "title": "芒果",
+    "type": "Food",
+    "description": "服用氯雷他定片期间应少吃芒果",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_dbfa125b",
+    "title": "发物",
+    "type": "Food",
+    "description": "服用氯雷他定片期间应少吃发物",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3d024a8a",
+    "title": "其他抗过敏药",
+    "type": "Drug",
+    "description": "不应与其他抗过敏药叠加使用",
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9374a2e2",
+    "title": "藿香正气胶囊",
+    "type": "Drug",
+    "description": "商品名藿香正气，成分为广藿香、紫苏叶，胶囊剂型，一次2粒一日2次，主治暑湿感冒中暑腹痛腹泻",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_2a2e3ce7",
+    "title": "广藿香",
+    "type": "Ingredient",
+    "description": "藿香正气胶囊的成分之一",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_976c6ddd",
+    "title": "紫苏叶",
+    "type": "Ingredient",
+    "description": "藿香正气胶囊的成分之一",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_67de58c6",
+    "title": "暑湿感冒",
+    "type": "Disease",
+    "description": "藿香正气胶囊主治的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_84f78664",
+    "title": "中暑",
+    "type": "Disease",
+    "description": "藿香正气胶囊主治的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_484d7876",
+    "title": "腹痛腹泻",
+    "type": "Symptom",
+    "description": "藿香正气胶囊主治的症状之一",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b7d9373e",
+    "title": "酒精过敏者",
+    "type": "Population",
+    "description": "禁用藿香正气胶囊的人群",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6a956722",
+    "title": "婴幼儿",
+    "type": "Population",
+    "description": "慎用藿香正气胶囊的人群；需严格控量的人群；慎用人群",
+    "text_unit_ids": [
+      "tu_doc_7_0",
+      "tu_doc_9_0",
+      "tu_doc_18_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_7d4d5165",
+    "title": "头孢",
+    "type": "Drug",
+    "description": "与含酒精的藿香正气胶囊存在相互作用",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_1118327f",
+    "title": "甲硝唑",
+    "type": "Drug",
+    "description": "与藿香正气胶囊存在相互作用；甲硝唑片，商品名甲硝唑，成分甲硝唑，片剂0.2g",
+    "text_unit_ids": [
+      "tu_doc_7_0",
+      "tu_doc_17_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_27cebebe",
+    "title": "生冷冰镇油腻食物",
+    "type": "Food",
+    "description": "服用藿香正气胶囊期间忌食",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_587ac4fc",
+    "title": "恶心头晕",
+    "type": "Symptom",
+    "description": "部分人服用藿香正气胶囊后可能出现的不良反应",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_5cacbc90",
+    "title": "2粒",
+    "type": "Dosage",
+    "description": "藿香正气胶囊一次用量",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b1eb3689",
+    "title": "一日2次",
+    "type": "Dosage",
+    "description": "藿香正气胶囊每日服用次数",
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d101b727",
+    "title": "硝酸甘油",
+    "type": "Drug",
+    "description": "硝酸甘油片，用于冠心病心绞痛预防急救",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e2a363d4",
+    "title": "硝酸甘油",
+    "type": "Ingredient",
+    "description": "硝酸甘油片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_af3b43f8",
+    "title": "心绞痛",
+    "type": "Disease",
+    "description": "冠心病的一种症状，硝酸甘油用于其预防急救；硝苯地平缓释片治疗的疾病之一；美托洛尔片治疗的疾病之一；比索洛尔片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_8_0",
+      "tu_doc_26_0",
+      "tu_doc_27_0",
+      "tu_doc_40_0"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ent_1969104c",
+    "title": "冠心病",
+    "type": "Disease",
+    "description": "硝酸甘油用于冠心病心绞痛预防急救；辛伐他汀片治疗的疾病之一；适应症之一",
+    "text_unit_ids": [
+      "tu_doc_8_0",
+      "tu_doc_25_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_c7a97352",
+    "title": "低血压",
+    "type": "Disease",
+    "description": "低血压患者禁用硝酸甘油",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a62e762b",
+    "title": "老年人",
+    "type": "Population",
+    "description": "老年人常备硝酸甘油",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_92acd612",
+    "title": "面部潮红",
+    "type": "Symptom",
+    "description": "硝酸甘油常见副作用；硝苯地平缓释片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_8_0",
+      "tu_doc_26_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_64c77260",
+    "title": "低脂饮食",
+    "type": "Food",
+    "description": "建议低脂饮食；建议饮食",
+    "text_unit_ids": [
+      "tu_doc_8_0",
+      "tu_doc_25_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_b398b743",
+    "title": "低盐饮食",
+    "type": "Food",
+    "description": "建议低盐饮食；服用硝苯地平缓释片期间建议的饮食；服用美托洛尔片时的饮食建议；建议饮食控制；服用比索洛尔片时的饮食建议",
+    "text_unit_ids": [
+      "tu_doc_8_0",
+      "tu_doc_23_0",
+      "tu_doc_26_0",
+      "tu_doc_27_0",
+      "tu_doc_39_0",
+      "tu_doc_40_0"
+    ],
+    "frequency": 6
+  },
+  {
+    "id": "ent_1fa41a0d",
+    "title": "降压药",
+    "type": "Drug",
+    "description": "慎与降压药同用",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a5b0cad3",
+    "title": "0.5mg",
+    "type": "Dosage",
+    "description": "硝酸甘油片剂规格0.5mg",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d6d0dc23",
+    "title": "舌下含服1片",
+    "type": "Dosage",
+    "description": "心绞痛发作时舌下含服1片",
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_172adbdf",
+    "title": "小儿氨酚黄那敏颗粒",
+    "type": "Drug",
+    "description": "复方颗粒剂，商品名护彤，用于儿童感冒发热鼻塞流涕",
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e4fedf3e",
+    "title": "护彤",
+    "type": "Drug",
+    "description": "小儿氨酚黄那敏颗粒的商品名",
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_46c49b62",
+    "title": "儿童感冒",
+    "type": "Disease",
+    "description": "儿童常见疾病，症状包括发热、鼻塞、流涕",
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_2f12edd7",
+    "title": "甜饮料",
+    "type": "Food",
+    "description": "应少吃的食物",
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6694c510",
+    "title": "生冷辅食",
+    "type": "Food",
+    "description": "应少吃的食物",
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a4bdc55d",
+    "title": "益生菌",
+    "type": "Drug",
+    "description": "可搭配调理的药物；可与乳果糖口服溶液联用的药物",
+    "text_unit_ids": [
+      "tu_doc_9_0",
+      "tu_doc_33_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_49f37406",
+    "title": "阿莫西林胶囊",
+    "type": "Drug",
+    "description": "商品名阿莫仙，成分为阿莫西林，胶囊剂型，规格0.25g",
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d52b89a9",
+    "title": "阿莫西林",
+    "type": "Ingredient",
+    "description": "阿莫西林胶囊的主要成分",
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7f19f5b6",
+    "title": "呼吸道感染",
+    "type": "Disease",
+    "description": "阿莫西林胶囊治疗的适应症之一；头孢克肟分散片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_10_0",
+      "tu_doc_11_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_722779f7",
+    "title": "泌尿感染",
+    "type": "Disease",
+    "description": "阿莫西林胶囊治疗的适应症之一",
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_5bb66e98",
+    "title": "青霉素过敏",
+    "type": "Contraindication",
+    "description": "对青霉素过敏者禁用阿莫西林胶囊",
+    "text_unit_ids": [
+      "tu_doc_10_0",
+      "tu_doc_48_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_67ce7328",
+    "title": "皮疹",
+    "type": "Symptom",
+    "description": "偶见的不良反应；偶见不良反应",
+    "text_unit_ids": [
+      "tu_doc_10_0",
+      "tu_doc_18_0",
+      "tu_doc_47_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_f34dca46",
+    "title": "呕吐",
+    "type": "Symptom",
+    "description": "偶见的不良反应；多潘立酮片治疗的适应症之一",
+    "text_unit_ids": [
+      "tu_doc_10_0",
+      "tu_doc_14_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_6281201d",
+    "title": "益生菌",
+    "type": "Food",
+    "description": "不与益生菌同服",
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6c3aa9a4",
+    "title": "0.25g",
+    "type": "Dosage",
+    "description": "每粒胶囊的剂量",
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_74e301ee",
+    "title": "头孢克肟分散片",
+    "type": "Drug",
+    "description": "商品名世福素，分散片0.1g，口服一次1片一日2次，治疗呼吸道肠道感染",
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_cf2c9e06",
+    "title": "头孢克肟",
+    "type": "Ingredient",
+    "description": "头孢克肟分散片的成分",
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b65c6698",
+    "title": "肠道感染",
+    "type": "Disease",
+    "description": "头孢克肟分散片治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a122050f",
+    "title": "头孢过敏",
+    "type": "Contraindication",
+    "description": "头孢过敏者禁用头孢克肟分散片；对头孢类抗生素过敏",
+    "text_unit_ids": [
+      "tu_doc_11_0",
+      "tu_doc_47_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_af1937fe",
+    "title": "肾功能不全",
+    "type": "Population",
+    "description": "肾功能不全者需减量",
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b61dd63e",
+    "title": "辛辣刺激食物",
+    "type": "Food",
+    "description": "忌辛辣刺激；忌食",
+    "text_unit_ids": [
+      "tu_doc_11_0",
+      "tu_doc_19_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_aaeb1849",
+    "title": "活菌制剂",
+    "type": "Drug",
+    "description": "不与活菌制剂联用",
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_5fad17d7",
+    "title": "氨溴索口服溶液",
+    "type": "Drug",
+    "description": "商品名沐舒坦，口服溶液100ml",
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e3386012",
+    "title": "氨溴索",
+    "type": "Ingredient",
+    "description": "氨溴索口服溶液的主要成分；氨溴索注射液的成分",
+    "text_unit_ids": [
+      "tu_doc_12_0",
+      "tu_doc_46_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_0de26b63",
+    "title": "痰多咳嗽",
+    "type": "Symptom",
+    "description": "氨溴索口服溶液治疗的适应症",
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_4310bd7b",
+    "title": "胃部不适",
+    "type": "Symptom",
+    "description": "偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_985d0d58",
+    "title": "孕妇前三月",
+    "type": "Population",
+    "description": "慎用人群",
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_97902f57",
+    "title": "甜食油腻",
+    "type": "Food",
+    "description": "忌食的食物类型",
+    "text_unit_ids": [
+      "tu_doc_12_0",
+      "tu_doc_46_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_946943dc",
+    "title": "10ml",
+    "type": "Dosage",
+    "description": "一次用量；每次口服剂量",
+    "text_unit_ids": [
+      "tu_doc_12_0",
+      "tu_doc_33_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_0032b121",
+    "title": "一日3次",
+    "type": "Dosage",
+    "description": "用药频率",
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d4ec0a08",
+    "title": "左西替利嗪片",
+    "type": "Drug",
+    "description": "商品名迪皿，片剂5mg，口服一日1次一次1片，用于缓解过敏鼻炎荨麻疹",
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a8e9c261",
+    "title": "左西替利嗪",
+    "type": "Ingredient",
+    "description": "左西替利嗪片的成分",
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6b4730f9",
+    "title": "肝肾不全者",
+    "type": "Population",
+    "description": "肝肾功能不全的患者",
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6b6f7cc5",
+    "title": "镇静药",
+    "type": "DrugClass",
+    "description": "与左西替利嗪片有相互作用，不宜同服；不与镇静药联用",
+    "text_unit_ids": [
+      "tu_doc_13_0",
+      "tu_doc_20_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_39f9f6be",
+    "title": "5mg",
+    "type": "Dosage",
+    "description": "左西替利嗪片的剂量规格；每片剂量；缓释片规格；比索洛尔片的规格；特布他林雾化液的规格",
+    "text_unit_ids": [
+      "tu_doc_13_0",
+      "tu_doc_21_0",
+      "tu_doc_39_0",
+      "tu_doc_40_0",
+      "tu_doc_45_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_7969953a",
+    "title": "多潘立酮片",
+    "type": "Drug",
+    "description": "商品名吗丁啉，片剂10mg，用于胃胀恶心呕吐",
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3185b169",
+    "title": "多潘立酮",
+    "type": "Ingredient",
+    "description": "多潘立酮片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9832e47d",
+    "title": "胃胀",
+    "type": "Symptom",
+    "description": "多潘立酮片治疗的适应症之一；枸橼酸莫沙必利片改善的症状之一",
+    "text_unit_ids": [
+      "tu_doc_14_0",
+      "tu_doc_21_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_8ac14ec6",
+    "title": "心动过速",
+    "type": "Disease",
+    "description": "多潘立酮片的禁忌症；特布他林的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_14_0",
+      "tu_doc_45_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_f1e782fc",
+    "title": "抗胆碱药",
+    "type": "DrugClass",
+    "description": "与多潘立酮片存在相互作用的药物类别；与枸橼酸莫沙必利片不宜联用的药物类别；与匹维溴铵片有相互作用的药物类别",
+    "text_unit_ids": [
+      "tu_doc_14_0",
+      "tu_doc_21_0",
+      "tu_doc_34_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_bf67c8a9",
+    "title": "10mg",
+    "type": "Dosage",
+    "description": "多潘立酮片的规格；每片剂量",
+    "text_unit_ids": [
+      "tu_doc_14_0",
+      "tu_doc_43_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_ed3a5457",
+    "title": "葡萄糖酸钙口服液",
+    "type": "Drug",
+    "description": "商品名三精，口服液10ml，用于缺钙抽搐过敏",
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3c9a7639",
+    "title": "葡萄糖酸钙",
+    "type": "Ingredient",
+    "description": "葡萄糖酸钙口服液的主要成分",
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_ae6a315e",
+    "title": "缺钙抽搐",
+    "type": "Symptom",
+    "description": "葡萄糖酸钙口服液用于治疗缺钙抽搐",
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_42956272",
+    "title": "过敏",
+    "type": "Symptom",
+    "description": "葡萄糖酸钙口服液用于治疗过敏",
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b116e684",
+    "title": "维生素D",
+    "type": "Drug",
+    "description": "可与葡萄糖酸钙口服液联用",
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bfc5118c",
+    "title": "饭后服用",
+    "type": "Dosage",
+    "description": "建议饭后服用促进吸收；双氯芬酸钠缓释胶囊建议饭后服用",
+    "text_unit_ids": [
+      "tu_doc_15_0",
+      "tu_doc_30_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_e5e55147",
+    "title": "利巴韦林颗粒",
+    "type": "Drug",
+    "description": "商品名病毒唑，颗粒剂50mg，用于治疗病毒感冒和疱疹",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_4006ea5b",
+    "title": "利巴韦林",
+    "type": "Ingredient",
+    "description": "利巴韦林颗粒的主要成分",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_ba948594",
+    "title": "病毒感冒",
+    "type": "Disease",
+    "description": "由病毒引起的感冒",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a3e2d3a3",
+    "title": "疱疹",
+    "type": "Disease",
+    "description": "病毒性疱疹",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_018b4b6a",
+    "title": "哺乳期儿童",
+    "type": "Population",
+    "description": "慎用利巴韦林颗粒的人群",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0a78ed65",
+    "title": "贫血",
+    "type": "Symptom",
+    "description": "利巴韦林颗粒可能引起的副作用",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b07a1847",
+    "title": "生冷刺激",
+    "type": "Food",
+    "description": "服用利巴韦林颗粒期间应避免的食物；服用萘普生片期间忌生冷刺激食物",
+    "text_unit_ids": [
+      "tu_doc_16_0",
+      "tu_doc_31_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_6b59c13f",
+    "title": "抗病毒药",
+    "type": "DrugClass",
+    "description": "与利巴韦林颗粒不宜叠加使用的药物类别",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7de99ba6",
+    "title": "50mg",
+    "type": "Dosage",
+    "description": "利巴韦林颗粒的规格剂量；每片剂量；阿卡波糖片的规格",
+    "text_unit_ids": [
+      "tu_doc_16_0",
+      "tu_doc_34_0",
+      "tu_doc_41_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_f9081226",
+    "title": "一次1袋一日3次",
+    "type": "Dosage",
+    "description": "利巴韦林颗粒的用法用量",
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_cb1a1a28",
+    "title": "甲硝唑",
+    "type": "Ingredient",
+    "description": "甲硝唑片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bbec5782",
+    "title": "口腔感染",
+    "type": "Disease",
+    "description": "口腔感染，甲硝唑治疗",
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_50a1764c",
+    "title": "滴虫",
+    "type": "Disease",
+    "description": "滴虫感染，甲硝唑治疗",
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_dfbd9a59",
+    "title": "酒精过敏",
+    "type": "Contraindication",
+    "description": "酒精过敏者禁用甲硝唑",
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7ba70aea",
+    "title": "头孢",
+    "type": "DrugClass",
+    "description": "头孢类抗生素，不与甲硝唑叠加",
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_1b66a8d1",
+    "title": "0.2g",
+    "type": "Dosage",
+    "description": "片剂0.2g",
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_840fbf18",
+    "title": "一次1片一日3次",
+    "type": "Dosage",
+    "description": "口服一次1片一日3次；口服用法用量",
+    "text_unit_ids": [
+      "tu_doc_17_0",
+      "tu_doc_21_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_546c4a4c",
+    "title": "对乙酰氨基酚混悬液",
+    "type": "Drug",
+    "description": "商品名泰诺林，混悬液30ml，用于儿童退烧止痛",
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d8e1cffc",
+    "title": "严重肝不全",
+    "type": "Disease",
+    "description": "严重肝功能不全",
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a3c5607d",
+    "title": "体温超38.5℃",
+    "type": "Dosage",
+    "description": "建议体温超38.5℃服用",
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_35f60b5c",
+    "title": "布洛芬混悬液",
+    "type": "Drug",
+    "description": "商品名美林，成分布洛芬，混悬液100ml",
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_5e8e4d29",
+    "title": "疼痛",
+    "type": "Symptom",
+    "description": "适应症之一；萘普生片缓解的症状",
+    "text_unit_ids": [
+      "tu_doc_19_0",
+      "tu_doc_31_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_37538d6e",
+    "title": "肠胃不适",
+    "type": "Symptom",
+    "description": "偶见不良反应；服用阿司匹林偶见肠胃不适",
+    "text_unit_ids": [
+      "tu_doc_19_0",
+      "tu_doc_29_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_82540cd4",
+    "title": "6个月以下婴儿",
+    "type": "Population",
+    "description": "慎用人群",
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b44d16e8",
+    "title": "马来酸氯苯那敏片",
+    "type": "Drug",
+    "description": "商品名扑尔敏，片剂4mg，抗过敏止痒",
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c9f28174",
+    "title": "马来酸氯苯那敏",
+    "type": "Ingredient",
+    "description": "马来酸氯苯那敏片的成分",
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_830543f9",
+    "title": "癫痫",
+    "type": "Disease",
+    "description": "癫痫患者禁用马来酸氯苯那敏片",
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e95db5b6",
+    "title": "老年",
+    "type": "Population",
+    "description": "老年慎用马来酸氯苯那敏片；慎用二甲双胍的人群",
+    "text_unit_ids": [
+      "tu_doc_20_0",
+      "tu_doc_24_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_04a812b4",
+    "title": "高空作业",
+    "type": "Risk",
+    "description": "服用马来酸氯苯那敏片后忌高空作业",
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_81da5350",
+    "title": "驾车",
+    "type": "Risk",
+    "description": "服用马来酸氯苯那敏片后忌驾车",
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_aa774091",
+    "title": "4mg",
+    "type": "Dosage",
+    "description": "马来酸氯苯那敏片每片4mg",
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0f83e0a6",
+    "title": "枸橼酸莫沙必利片",
+    "type": "Drug",
+    "description": "商品名快力，片剂5mg，用于改善胃胀嗳气",
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b9a121fe",
+    "title": "莫沙必利",
+    "type": "Ingredient",
+    "description": "枸橼酸莫沙必利片的主要成分",
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_63439448",
+    "title": "嗳气",
+    "type": "Symptom",
+    "description": "枸橼酸莫沙必利片改善的症状之一",
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_df1d2279",
+    "title": "胃肠道出血",
+    "type": "Contraindication",
+    "description": "枸橼酸莫沙必利片的禁用情况",
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f3d5f78f",
+    "title": "腹痛",
+    "type": "Symptom",
+    "description": "枸橼酸莫沙必利片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c4b34280",
+    "title": "兰索拉唑肠溶片",
+    "type": "Drug",
+    "description": "商品名达克普隆，肠溶片15mg，用于胃溃疡和反流性食管炎",
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_4c5f3ffd",
+    "title": "兰索拉唑",
+    "type": "Ingredient",
+    "description": "兰索拉唑肠溶片的主要成分",
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bf4bda0d",
+    "title": "15mg",
+    "type": "Dosage",
+    "description": "肠溶片15mg",
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bf4fec96",
+    "title": "缬沙坦胶囊",
+    "type": "Drug",
+    "description": "商品名代文，成分缬沙坦，胶囊剂型，规格80mg",
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_fa0ea805",
+    "title": "缬沙坦",
+    "type": "Ingredient",
+    "description": "缬沙坦胶囊的有效成分",
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_5ddcf046",
+    "title": "保钾药",
+    "type": "DrugClass",
+    "description": "与缬沙坦胶囊存在药物相互作用，不宜联用",
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a78d311c",
+    "title": "80mg",
+    "type": "Dosage",
+    "description": "胶囊规格80mg；每片剂量80mg",
+    "text_unit_ids": [
+      "tu_doc_23_0",
+      "tu_doc_28_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_de1eb44e",
+    "title": "二甲双胍",
+    "type": "Drug",
+    "description": "二甲双胍片的主要成分，用于治疗2型糖尿病",
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8425a669",
+    "title": "格华止",
+    "type": "Drug",
+    "description": "二甲双胍片的商品名",
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_2084544b",
+    "title": "二甲双胍片",
+    "type": "Drug",
+    "description": "含二甲双胍的片剂，规格0.5g",
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f46bf9aa",
+    "title": "2型糖尿病",
+    "type": "Disease",
+    "description": "二甲双胍治疗的疾病；格列齐特片治疗的疾病；阿卡波糖片治疗的疾病；瑞格列奈片治疗的疾病",
+    "text_unit_ids": [
+      "tu_doc_24_0",
+      "tu_doc_28_0",
+      "tu_doc_41_0",
+      "tu_doc_42_0"
+    ],
+    "frequency": 4
+  },
+  {
+    "id": "ent_a3704a75",
+    "title": "低糖饮食",
+    "type": "Food",
+    "description": "服用二甲双胍期间建议的饮食；服用阿卡波糖片期间建议的饮食；建议的饮食方式",
+    "text_unit_ids": [
+      "tu_doc_24_0",
+      "tu_doc_41_0",
+      "tu_doc_42_0"
+    ],
+    "frequency": 3
+  },
+  {
+    "id": "ent_d1b70d88",
+    "title": "一次1片一日2次",
+    "type": "Dosage",
+    "description": "二甲双胍片的用法用量；萘普生片口服用法用量",
+    "text_unit_ids": [
+      "tu_doc_24_0",
+      "tu_doc_31_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_be3d8d46",
+    "title": "辛伐他汀片",
+    "type": "Drug",
+    "description": "商品名舒降之，片剂20mg，口服每晚1次一次1片",
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d99004e4",
+    "title": "辛伐他汀",
+    "type": "Ingredient",
+    "description": "辛伐他汀片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8f987386",
+    "title": "高血脂",
+    "type": "Disease",
+    "description": "辛伐他汀片治疗的疾病之一；适应症之一",
+    "text_unit_ids": [
+      "tu_doc_25_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_0fa1e061",
+    "title": "肝损",
+    "type": "Disease",
+    "description": "肝损伤，禁用辛伐他汀片；肝损伤，禁忌症",
+    "text_unit_ids": [
+      "tu_doc_25_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_b53d21fd",
+    "title": "肌肉酸痛",
+    "type": "Symptom",
+    "description": "偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_558c2c99",
+    "title": "贝特类",
+    "type": "DrugClass",
+    "description": "不与贝特类联用；不推荐联用的药物类别",
+    "text_unit_ids": [
+      "tu_doc_25_0",
+      "tu_doc_38_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_cda26446",
+    "title": "硝苯地平缓释片",
+    "type": "Drug",
+    "description": "商品名拜新同，缓释片30mg，用于高血压心绞痛",
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d0b5d807",
+    "title": "硝苯地平",
+    "type": "Ingredient",
+    "description": "硝苯地平缓释片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d5ca82c5",
+    "title": "心源性休克",
+    "type": "Contraindication",
+    "description": "硝苯地平缓释片的禁用情况",
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_14ee7f98",
+    "title": "降压药",
+    "type": "DrugClass",
+    "description": "与硝苯地平缓释片有叠加作用的药物类别",
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bc3908bd",
+    "title": "30mg",
+    "type": "Dosage",
+    "description": "硝苯地平缓释片的规格剂量",
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d359895c",
+    "title": "美托洛尔片",
+    "type": "Drug",
+    "description": "商品名倍他乐克，成分美托洛尔，片剂25mg",
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_1ca4aace",
+    "title": "美托洛尔",
+    "type": "Ingredient",
+    "description": "美托洛尔片的成分",
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_22a7682b",
+    "title": "哮喘",
+    "type": "Disease",
+    "description": "美托洛尔片的禁忌症；哮喘患者慎用阿司匹林；比索洛尔片的禁忌症；一种慢性呼吸道疾病；布地奈德混悬液治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_27_0",
+      "tu_doc_29_0",
+      "tu_doc_40_0",
+      "tu_doc_43_0",
+      "tu_doc_44_0"
+    ],
+    "frequency": 5
+  },
+  {
+    "id": "ent_d326ff0a",
+    "title": "心动过缓",
+    "type": "Disease",
+    "description": "美托洛尔片的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e8b0e167",
+    "title": "维拉帕米",
+    "type": "Drug",
+    "description": "与美托洛尔片有相互作用的药物",
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_aad3196d",
+    "title": "25mg",
+    "type": "Dosage",
+    "description": "美托洛尔片的规格",
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f9d11c11",
+    "title": "格列齐特片",
+    "type": "Drug",
+    "description": "商品名达美康，片剂80mg，用于2型糖尿病降糖",
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d7f00b84",
+    "title": "格列齐特",
+    "type": "Ingredient",
+    "description": "格列齐特片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_135d446c",
+    "title": "酮症酸中毒",
+    "type": "Disease",
+    "description": "禁用格列齐特片的疾病",
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9eedf4a8",
+    "title": "低血糖",
+    "type": "Symptom",
+    "description": "偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_28_0",
+      "tu_doc_42_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_797aa05c",
+    "title": "心慌",
+    "type": "Symptom",
+    "description": "偶见的不良反应；特布他林偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_28_0",
+      "tu_doc_45_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_09a0238c",
+    "title": "肝不全",
+    "type": "Disease",
+    "description": "禁用格列齐特片的疾病",
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_87f8b355",
+    "title": "阿司匹林",
+    "type": "Ingredient",
+    "description": "阿司匹林肠溶片的主要成分",
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0b5c2632",
+    "title": "100mg",
+    "type": "Dosage",
+    "description": "阿司匹林肠溶片的规格剂量",
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_678c8184",
+    "title": "血栓",
+    "type": "Disease",
+    "description": "阿司匹林用于预防血栓",
+    "text_unit_ids": [
+      "tu_doc_29_0",
+      "tu_doc_37_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_f89e5ccf",
+    "title": "心梗",
+    "type": "Disease",
+    "description": "阿司匹林用于预防心梗；预防心肌梗死",
+    "text_unit_ids": [
+      "tu_doc_29_0",
+      "tu_doc_37_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_4f051cb9",
+    "title": "布洛芬",
+    "type": "Drug",
+    "description": "不与布洛芬联用",
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_00363681",
+    "title": "双氯芬酸钠缓释胶囊",
+    "type": "Drug",
+    "description": "商品名英太青，胶囊0.1g，口服一日1次一次1粒，用于关节痛牙痛止痛",
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b19e94e8",
+    "title": "双氯芬酸钠",
+    "type": "Ingredient",
+    "description": "双氯芬酸钠缓释胶囊的主要成分",
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e7221efd",
+    "title": "严重肝肾功能不全",
+    "type": "Disease",
+    "description": "双氯芬酸钠缓释胶囊的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_282e8140",
+    "title": "饮酒",
+    "type": "Food",
+    "description": "服用双氯芬酸钠缓释胶囊期间忌饮酒",
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8b0b278e",
+    "title": "萘普生片",
+    "type": "Drug",
+    "description": "商品名萘普生，片剂0.1g，口服一次1片一日2次，缓解疼痛发热",
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8f00aeaa",
+    "title": "萘普生",
+    "type": "Ingredient",
+    "description": "萘普生片的成分",
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_494ea971",
+    "title": "其他退烧药",
+    "type": "DrugClass",
+    "description": "萘普生片不与其他退烧药联用",
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_598773e1",
+    "title": "0.1g",
+    "type": "Dosage",
+    "description": "萘普生片每片剂量0.1g",
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_cd0446db",
+    "title": "胰酶肠溶胶囊",
+    "type": "Drug",
+    "description": "商品名得每通，胶囊150mg，用于消化不良食欲不振",
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3674cb3e",
+    "title": "胰酶",
+    "type": "Ingredient",
+    "description": "胰酶肠溶胶囊的成分",
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a0732211",
+    "title": "消化不良",
+    "type": "Symptom",
+    "description": "胰酶肠溶胶囊的适应症之一",
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7c045770",
+    "title": "食欲不振",
+    "type": "Symptom",
+    "description": "胰酶肠溶胶囊的适应症之一",
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_1fdb9707",
+    "title": "急性胰腺炎",
+    "type": "Disease",
+    "description": "胰酶肠溶胶囊的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8f091d37",
+    "title": "酸性药物",
+    "type": "Drug",
+    "description": "与胰酶肠溶胶囊不宜联用的药物",
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_5891154a",
+    "title": "乳果糖口服溶液",
+    "type": "Drug",
+    "description": "商品名杜密克，口服溶液100ml，用于慢性便秘",
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e3f7ca30",
+    "title": "乳果糖",
+    "type": "Ingredient",
+    "description": "乳果糖口服溶液的主要成分",
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_17811a82",
+    "title": "慢性便秘",
+    "type": "Disease",
+    "description": "乳果糖口服溶液治疗的疾病",
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_b6efd315",
+    "title": "肠梗阻",
+    "type": "Disease",
+    "description": "乳果糖口服溶液的禁忌症；禁用阿卡波糖片的疾病",
+    "text_unit_ids": [
+      "tu_doc_33_0",
+      "tu_doc_41_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_16e9f569",
+    "title": "辛辣刺激",
+    "type": "Food",
+    "description": "应少食的食物",
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_299d63e4",
+    "title": "匹维溴铵片",
+    "type": "Drug",
+    "description": "商品名得舒特，片剂50mg，用于肠易激腹痛",
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_584fbd92",
+    "title": "匹维溴铵",
+    "type": "Ingredient",
+    "description": "匹维溴铵片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a169117e",
+    "title": "肠易激综合征",
+    "type": "Disease",
+    "description": "肠易激腹痛所指的疾病",
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a43dd73e",
+    "title": "呋塞米片",
+    "type": "Drug",
+    "description": "商品名速尿，片剂20mg，口服一日1次一次1片，用于水肿利尿",
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0fa0db01",
+    "title": "呋塞米",
+    "type": "Ingredient",
+    "description": "呋塞米片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3e1e6c10",
+    "title": "低钾血症",
+    "type": "Disease",
+    "description": "禁用呋塞米片",
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e6ab0cd6",
+    "title": "电解质紊乱",
+    "type": "Symptom",
+    "description": "偶见不良反应",
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9db5b31f",
+    "title": "氨基糖苷类",
+    "type": "DrugClass",
+    "description": "不与呋塞米片联用",
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9a850783",
+    "title": "螺内酯片",
+    "type": "Drug",
+    "description": "商品名安体舒通，片剂20mg，保钾利尿药",
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_846ecfd8",
+    "title": "螺内酯",
+    "type": "Ingredient",
+    "description": "螺内酯片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0943a241",
+    "title": "高钾血症",
+    "type": "Disease",
+    "description": "血钾过高，螺内酯片禁用",
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_751242fc",
+    "title": "高钾食物",
+    "type": "Food",
+    "description": "与螺内酯片有冲突，忌食",
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f23ab144",
+    "title": "缬沙坦",
+    "type": "Drug",
+    "description": "与螺内酯片不宜联用",
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_97dc81d3",
+    "title": "波立维",
+    "type": "Drug",
+    "description": "氯吡格雷的商品名",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_67e2cdb1",
+    "title": "氯吡格雷",
+    "type": "Ingredient",
+    "description": "氯吡格雷片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_ccfd6a10",
+    "title": "75mg",
+    "type": "Dosage",
+    "description": "每片剂量75mg",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a9869771",
+    "title": "口服一日1次一次1片",
+    "type": "Dosage",
+    "description": "用法用量",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_16f03916",
+    "title": "出血倾向",
+    "type": "Contraindication",
+    "description": "出血倾向患者禁用",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0c1af00c",
+    "title": "皮下出血",
+    "type": "Symptom",
+    "description": "偶见不良反应",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bc1d4f91",
+    "title": "奥美拉唑",
+    "type": "Drug",
+    "description": "不与奥美拉唑联用",
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_033c4908",
+    "title": "阿托伐他汀钙片",
+    "type": "Drug",
+    "description": "商品名立普妥，片剂20mg，口服每晚1次一次1片",
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d06b3103",
+    "title": "阿托伐他汀钙",
+    "type": "Ingredient",
+    "description": "阿托伐他汀钙片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c848af3b",
+    "title": "肌肉疼痛",
+    "type": "Symptom",
+    "description": "偶见不良反应",
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_712d1b1d",
+    "title": "非洛地平缓释片",
+    "type": "Drug",
+    "description": "商品名波依定，缓释片5mg，口服一日1次一次1片",
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f4026df2",
+    "title": "非洛地平",
+    "type": "Ingredient",
+    "description": "非洛地平缓释片的成分",
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d3d560d5",
+    "title": "脚踝水肿",
+    "type": "Symptom",
+    "description": "偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c69a3713",
+    "title": "其他降压药",
+    "type": "DrugClass",
+    "description": "不与其他降压药叠加使用",
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_7efee2c5",
+    "title": "比索洛尔",
+    "type": "Drug",
+    "description": "比索洛尔片的成分",
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_d2771e90",
+    "title": "康忻",
+    "type": "Drug",
+    "description": "比索洛尔片的商品名",
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_602bd4ce",
+    "title": "比索洛尔片",
+    "type": "Drug",
+    "description": "一种药物，商品名康忻，成分比索洛尔",
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_81fd7816",
+    "title": "心动过缓",
+    "type": "Symptom",
+    "description": "比索洛尔片的禁忌症",
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e015b944",
+    "title": "失眠",
+    "type": "Symptom",
+    "description": "比索洛尔片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f56ae37b",
+    "title": "硝苯地平",
+    "type": "Drug",
+    "description": "与比索洛尔片不宜联用的药物",
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_eb58dbd9",
+    "title": "阿卡波糖片",
+    "type": "Drug",
+    "description": "商品名拜唐苹，片剂50mg，口服一日3次一次1片，用于2型糖尿病降糖",
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_4748fde9",
+    "title": "阿卡波糖",
+    "type": "Ingredient",
+    "description": "阿卡波糖片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_00e7885d",
+    "title": "肠炎",
+    "type": "Disease",
+    "description": "禁用阿卡波糖片的疾病",
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3f8a50fb",
+    "title": "肝功能不全者",
+    "type": "Population",
+    "description": "慎用阿卡波糖片的人群",
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_00d4be84",
+    "title": "排气增多",
+    "type": "Symptom",
+    "description": "阿卡波糖片偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c88fd608",
+    "title": "一日3次一次1片",
+    "type": "Dosage",
+    "description": "阿卡波糖片的用法用量；口服用法用量",
+    "text_unit_ids": [
+      "tu_doc_41_0",
+      "tu_doc_42_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_f71aa64b",
+    "title": "瑞格列奈片",
+    "type": "Drug",
+    "description": "商品名诺和龙，片剂1mg，用于2型糖尿病降糖",
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bdcbb284",
+    "title": "瑞格列奈",
+    "type": "Ingredient",
+    "description": "瑞格列奈片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_70f41b7f",
+    "title": "1mg",
+    "type": "Dosage",
+    "description": "每片剂量；布地奈德混悬液的规格剂量",
+    "text_unit_ids": [
+      "tu_doc_42_0",
+      "tu_doc_44_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_780062c0",
+    "title": "饭前15分钟服用",
+    "type": "Dosage",
+    "description": "服用时间建议",
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_f925fd79",
+    "title": "孟鲁司特钠片",
+    "type": "Drug",
+    "description": "商品名顺尔宁，成分孟鲁司特钠，片剂10mg，用于哮喘和过敏性鼻炎",
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_6332c4a1",
+    "title": "孟鲁司特钠",
+    "type": "Ingredient",
+    "description": "孟鲁司特钠片的有效成分",
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_596abea5",
+    "title": "兴奋",
+    "type": "Symptom",
+    "description": "偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_a2424a64",
+    "title": "过敏原",
+    "type": "Risk",
+    "description": "可能引起过敏的物质",
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_bc768464",
+    "title": "吸入激素",
+    "type": "DrugClass",
+    "description": "一类用于哮喘治疗的激素类药物",
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_e91cc901",
+    "title": "布地奈德混悬液",
+    "type": "Drug",
+    "description": "商品名普米克，成分布地奈德，混悬液1mg，雾化吸入一次1支一日2次，用于哮喘和慢阻肺",
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_53b61f1a",
+    "title": "布地奈德",
+    "type": "Ingredient",
+    "description": "布地奈德混悬液的主要成分",
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_69ffe293",
+    "title": "慢阻肺",
+    "type": "Disease",
+    "description": "布地奈德混悬液治疗的疾病之一",
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_081701cb",
+    "title": "口腔真菌感染",
+    "type": "Symptom",
+    "description": "布地奈德混悬液偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9408c06f",
+    "title": "支气管扩张剂",
+    "type": "DrugClass",
+    "description": "可与布地奈德混悬液联用的药物类别",
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_dfe92f96",
+    "title": "特布他林",
+    "type": "Drug",
+    "description": "特布他林雾化液，商品名博利康尼，雾化液5mg",
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_ec15dd66",
+    "title": "博利康尼",
+    "type": "Drug",
+    "description": "特布他林雾化液的商品名",
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_35e00120",
+    "title": "支气管哮喘",
+    "type": "Disease",
+    "description": "特布他林治疗的疾病",
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_4de35339",
+    "title": "手抖",
+    "type": "Symptom",
+    "description": "特布他林偶见的不良反应",
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_3048df5a",
+    "title": "刺激物",
+    "type": "Food",
+    "description": "特布他林使用时应避免的刺激物",
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_62e1f5b6",
+    "title": "雾化吸入一次1支一日2次",
+    "type": "Dosage",
+    "description": "特布他林的用法用量",
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_264a1a9c",
+    "title": "氨溴索注射液",
+    "type": "Drug",
+    "description": "商品名沐舒坦，注射液15mg，用于痰多排痰困难",
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_75bd99a6",
+    "title": "痰多排痰困难",
+    "type": "Symptom",
+    "description": "适应症",
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9ca62ffd",
+    "title": "恶心呕吐",
+    "type": "Symptom",
+    "description": "偶见不良反应",
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_8343e034",
+    "title": "头孢曲松钠注射液",
+    "type": "Drug",
+    "description": "商品名罗氏芬，成分头孢曲松钠，注射液1g，用于细菌感染",
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0628d3ad",
+    "title": "头孢曲松钠",
+    "type": "Ingredient",
+    "description": "头孢曲松钠注射液的主要成分",
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0e0b2535",
+    "title": "罗氏芬",
+    "type": "Drug",
+    "description": "头孢曲松钠注射液的商品名",
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_48885c86",
+    "title": "细菌感染",
+    "type": "Disease",
+    "description": "头孢曲松钠注射液治疗的疾病；青霉素钠注射液治疗的疾病",
+    "text_unit_ids": [
+      "tu_doc_47_0",
+      "tu_doc_48_0"
+    ],
+    "frequency": 2
+  },
+  {
+    "id": "ent_e6007bd9",
+    "title": "钙剂",
+    "type": "Drug",
+    "description": "与头孢曲松钠存在相互作用，不宜联用",
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_0e3fdf0f",
+    "title": "青霉素钠注射液",
+    "type": "Drug",
+    "description": "商品名青霉素，成分青霉素钠，注射液80万单位",
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_9a02867f",
+    "title": "青霉素钠",
+    "type": "Ingredient",
+    "description": "青霉素钠注射液的成分",
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_c7cec137",
+    "title": "过敏休克",
+    "type": "Risk",
+    "description": "偶见过敏休克",
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ],
+    "frequency": 1
+  },
+  {
+    "id": "ent_81a464cd",
+    "title": "80万单位",
+    "type": "Dosage",
+    "description": "注射液80万单位，肌内注射一次1支一日2次",
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ],
+    "frequency": 1
+  }
+]

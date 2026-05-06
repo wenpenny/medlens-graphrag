@@ -1,0 +1,16 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+python-dotenv==1.0.1
+python-multipart==0.0.9
+requests==2.31.0
+pydantic==2.6.1
+pydantic-settings==2.2.0
+pandas==2.2.0
+pyarrow==15.0.0
+networkx==3.2.1
+numpy==1.26.4
+scikit-learn==1.4.0
+lancedb==0.5.1
+sentence-transformers==2.7.0
+aiofiles==23.2.1
+tqdm==4.66.2

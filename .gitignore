@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables (keep .env.example)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+scan_result.json
+test_result.json
+data.json
+
+# Test files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.bat
+start.bat
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# Backend
+backend/app/__pycache__/
+backend/app/**/__pycache__/
+backend/uploads/
+backend/storage/
+backend/*.sqlite3
+*.sqlite3
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+
+# Docker
+.dockerignore
+
+# MedLens specific - reference implementation (not part of this project)
+graphrag-main/

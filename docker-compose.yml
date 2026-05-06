@@ -1,0 +1,40 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    image: medlens-backend:latest
+    container_name: medlens-backend
+    env_file:
+      - ./backend/.env
+    environment:
+      - STORAGE_DIR=storage
+      - UPLOAD_DIR=uploads
+      - CORS_ORIGINS=*
+    volumes:
+      - medlens_storage:/app/storage
+      - medlens_uploads:/app/uploads
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    image: medlens-frontend:latest
+    container_name: medlens-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  medlens_storage:
+  medlens_uploads:

@@ -1,0 +1,3921 @@
+[
+  {
+    "id": "doc_0",
+    "title": "药品文档_1",
+    "text": "成人感冒发烧可服用对乙酰氨基酚片，商品名泰诺林，有效成分为对乙酰氨基酚；剂型片剂，规格0.5g，口服一次1片，每日3次，用于普通感冒流感发热、头痛牙痛；严重肝肾功能不全者禁用，孕妇哺乳期慎用，偶见恶心乏力；肝病肾病患者不宜长期服用，服药禁酒，不可与999感冒灵联用，建议饭后温水送服。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "对乙酰氨基酚片",
+          "type": "药品名"
+        },
+        {
+          "entity": "对乙酰氨基酚片",
+          "type": "通用名"
+        },
+        {
+          "entity": "泰诺林",
+          "type": "商品名"
+        },
+        {
+          "entity": "对乙酰氨基酚",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.5g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "每日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "普通感冒流感发热、头痛牙痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肝肾功能不全者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇哺乳期慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "恶心乏力",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、哺乳期",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝病、肾病",
+          "type": "慢病"
+        },
+        {
+          "entity": "禁酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "999感冒灵",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后温水送服",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_1",
+    "title": "药品文档_2",
+    "text": "布洛芬缓释胶囊商品名芬必得，主要成分为布洛芬，胶囊剂型每粒0.3g；成人口服一次1粒早晚各1次，缓解关节痛痛经及发热；胃溃疡患者禁用，老人儿童减量使用，常见胃痛头晕；高血压心衰人群慎用，服药忌辛辣饮酒，勿与阿司匹林同服，建议饭后服用减少胃刺激。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "布洛芬缓释胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "布洛芬缓释胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "芬必得",
+          "type": "商品名"
+        },
+        {
+          "entity": "布洛芬",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.3g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1粒",
+          "type": "用量"
+        },
+        {
+          "entity": "早晚各1次",
+          "type": "频次"
+        },
+        {
+          "entity": "缓解关节痛痛经及发热",
+          "type": "适应症"
+        },
+        {
+          "entity": "胃溃疡患者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "老人儿童减量使用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "胃痛头晕",
+          "type": "不良反应"
+        },
+        {
+          "entity": "老人、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "高血压、心衰",
+          "type": "慢病"
+        },
+        {
+          "entity": "忌辛辣饮酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "阿司匹林",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用减少胃刺激",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_2",
+    "title": "药品文档_3",
+    "text": "复方氨酚烷胺胶囊又叫快克、感康，含对乙酰氨基酚与金刚烷胺，胶囊复方规格，成人一次1粒一日2次，适用于感冒鼻塞流涕四肢酸痛；严重肝肾不全禁用，服药易犯困不可驾车，会有嗜睡口干副作用；青光眼前列腺肥大人群慎用，禁酒浓茶，不叠加其他复方感冒药，建议感冒初期按疗程服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "复方氨酚烷胺胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "复方氨酚烷胺胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "快克、感康",
+          "type": "商品名"
+        },
+        {
+          "entity": "对乙酰氨基酚、金刚烷胺",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "复方",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "感冒鼻塞流涕四肢酸痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肝肾不全",
+          "type": "禁忌"
+        },
+        {
+          "entity": "服药易犯困不可驾车",
+          "type": "注意事项"
+        },
+        {
+          "entity": "嗜睡口干",
+          "type": "不良反应"
+        },
+        {
+          "entity": "青光眼、前列腺肥大",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "禁酒浓茶",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "其他复方感冒药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议感冒初期按疗程服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_3",
+    "title": "药品文档_4",
+    "text": "蒙脱石散商品名思密达、必奇，有效成分为蒙脱石，散剂3g每袋，空腹温水冲服一次1袋每日3次，治疗成人儿童急慢性腹泻；过敏者禁用，与其他药物需间隔1至2小时，过量易引发便秘；便秘体质人群慎用，忌生冷油腻饮食，可搭配口服补液盐，建议腹泻好转即减量停药。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "蒙脱石散",
+          "type": "药品名"
+        },
+        {
+          "entity": "蒙脱石散",
+          "type": "通用名"
+        },
+        {
+          "entity": "思密达、必奇",
+          "type": "商品名"
+        },
+        {
+          "entity": "蒙脱石",
+          "type": "有效成分"
+        },
+        {
+          "entity": "散剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "3g每袋",
+          "type": "规格"
+        },
+        {
+          "entity": "温水冲服",
+          "type": "用法"
+        },
+        {
+          "entity": "1袋",
+          "type": "用量"
+        },
+        {
+          "entity": "每日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "成人儿童急慢性腹泻",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "与其他药物需间隔1至2小时",
+          "type": "注意事项"
+        },
+        {
+          "entity": "便秘",
+          "type": "不良反应"
+        },
+        {
+          "entity": "便秘体质",
+          "type": "慢病"
+        },
+        {
+          "entity": "忌生冷油腻",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "口服补液盐",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议腹泻好转即减量停药",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_4",
+    "title": "药品文档_5",
+    "text": "铝碳酸镁咀嚼片商品名达喜，成分铝碳酸镁，咀嚼片0.5g规格，一次1至2片咀嚼服用一日3次，用于胃酸过多烧心反酸胃痛；严重肾衰禁用，饭后1到2小时服用，偶见腹胀便秘；肾病高钙血症患者慎用，少喝咖啡浓茶碳酸饮料，不与抗生素同服，建议规律饮食配合胃药调理。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "铝碳酸镁咀嚼片",
+          "type": "药品名"
+        },
+        {
+          "entity": "铝碳酸镁咀嚼片",
+          "type": "通用名"
+        },
+        {
+          "entity": "达喜",
+          "type": "商品名"
+        },
+        {
+          "entity": "铝碳酸镁",
+          "type": "有效成分"
+        },
+        {
+          "entity": "咀嚼片",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.5g",
+          "type": "规格"
+        },
+        {
+          "entity": "咀嚼服用",
+          "type": "用法"
+        },
+        {
+          "entity": "1至2片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "胃酸过多烧心反酸胃痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肾衰",
+          "type": "禁忌"
+        },
+        {
+          "entity": "饭后1到2小时服用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "腹胀便秘",
+          "type": "不良反应"
+        },
+        {
+          "entity": "肾病、高钙血症",
+          "type": "慢病"
+        },
+        {
+          "entity": "少喝咖啡浓茶碳酸饮料",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗生素",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议规律饮食配合胃药调理",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_5",
+    "title": "药品文档_6",
+    "text": "奥美拉唑肠溶胶囊商品名洛赛克，有效成分为奥美拉唑，胶囊20mg，晨起空腹吞服一日1次，治疗胃溃疡反流性食管炎；严重肝损过敏者禁用，不可自行连续服用超两周，少见头痛腹泻；老人肝病患者需减量，禁酒辛辣暴饮暴食，慎与氯吡格雷联用，建议胃病先检查再长期用药。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "奥美拉唑肠溶胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "奥美拉唑肠溶胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "洛赛克",
+          "type": "商品名"
+        },
+        {
+          "entity": "奥美拉唑",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "20mg",
+          "type": "规格"
+        },
+        {
+          "entity": "空腹吞服",
+          "type": "用法"
+        },
+        {
+          "entity": "1粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "胃溃疡反流性食管炎",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肝损、过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "不可自行连续服用超两周",
+          "type": "注意事项"
+        },
+        {
+          "entity": "头痛腹泻",
+          "type": "不良反应"
+        },
+        {
+          "entity": "老人",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝病",
+          "type": "慢病"
+        },
+        {
+          "entity": "禁酒辛辣暴饮暴食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "氯吡格雷",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议胃病先检查再长期用药",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_6",
+    "title": "药品文档_7",
+    "text": "氯雷他定片商品名开瑞坦，成分为氯雷他定，片剂10mg，成人一日1次一次1片，用于过敏性鼻炎荨麻疹皮肤瘙痒；过敏者禁用，基本无嗜睡适合白天服用，偶见乏力口干；肝肾功能不全人群减量，少吃海鲜芒果发物，不与其他抗过敏药叠加，建议过敏季提前预防性服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "氯雷他定片",
+          "type": "药品名"
+        },
+        {
+          "entity": "氯雷他定片",
+          "type": "通用名"
+        },
+        {
+          "entity": "开瑞坦",
+          "type": "商品名"
+        },
+        {
+          "entity": "氯雷他定",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "10mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "过敏性鼻炎荨麻疹皮肤瘙痒",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "基本无嗜睡适合白天服用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "乏力口干",
+          "type": "不良反应"
+        },
+        {
+          "entity": "肝肾功能不全",
+          "type": "慢病"
+        },
+        {
+          "entity": "少吃海鲜芒果发物",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "其他抗过敏药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议过敏季提前预防性服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_7",
+    "title": "药品文档_8",
+    "text": "藿香正气胶囊商品名藿香正气，成分为广藿香、紫苏叶，胶囊剂型，一次2粒一日2次，主治暑湿感冒中暑腹痛腹泻；酒精过敏者禁用，含酒精版本不可配头孢，部分人会恶心头晕；孕妇婴幼儿慎用，忌生冷冰镇油腻食物，禁止与甲硝唑同服，建议夏季常备吹空调受凉时使用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "藿香正气胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "藿香正气胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "藿香正气",
+          "type": "商品名"
+        },
+        {
+          "entity": "广藿香、紫苏叶",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "无",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "2粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "暑湿感冒中暑腹痛腹泻",
+          "type": "适应症"
+        },
+        {
+          "entity": "酒精过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "含酒精版本不可配头孢",
+          "type": "注意事项"
+        },
+        {
+          "entity": "恶心头晕",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、婴幼儿",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌生冷冰镇油腻",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "头孢、甲硝唑",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议夏季常备吹空调受凉时使用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_8",
+    "title": "药品文档_9",
+    "text": "硝酸甘油片商品名硝酸甘油，成分硝酸甘油，片剂0.5mg，心绞痛发作舌下含服1片，用于冠心病心绞痛预防急救；低血压青光眼患者禁用，需避光随身携带，常见面部潮红头晕；老年人常备，低脂低盐禁酒，慎与降压药同用，建议胸闷发作立刻坐下含服并及时就医。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "硝酸甘油片",
+          "type": "药品名"
+        },
+        {
+          "entity": "硝酸甘油片",
+          "type": "通用名"
+        },
+        {
+          "entity": "硝酸甘油",
+          "type": "商品名"
+        },
+        {
+          "entity": "硝酸甘油",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.5mg",
+          "type": "规格"
+        },
+        {
+          "entity": "舌下含服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "发作时即刻",
+          "type": "频次"
+        },
+        {
+          "entity": "冠心病心绞痛预防急救",
+          "type": "适应症"
+        },
+        {
+          "entity": "低血压、青光眼患者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "需避光随身携带",
+          "type": "注意事项"
+        },
+        {
+          "entity": "面部潮红头晕",
+          "type": "不良反应"
+        },
+        {
+          "entity": "老年人",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低血压、青光眼",
+          "type": "慢病"
+        },
+        {
+          "entity": "低脂低盐禁酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "降压药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议胸闷发作立刻坐下含服并及时就医",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_9",
+    "title": "药品文档_10",
+    "text": "小儿氨酚黄那敏颗粒商品名护彤，复方颗粒剂，按年龄体重冲服，用于儿童感冒发热鼻塞流涕；严重肝肾不全禁用，不可叠加其他儿童感冒药，偶见轻微嗜睡；婴幼儿需严格控量，少吃甜饮料生冷辅食，可搭配益生菌调理，建议儿童感冒优先物理降温再用药。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "小儿氨酚黄那敏颗粒",
+          "type": "药品名"
+        },
+        {
+          "entity": "小儿氨酚黄那敏颗粒",
+          "type": "通用名"
+        },
+        {
+          "entity": "护彤",
+          "type": "商品名"
+        },
+        {
+          "entity": "对乙酰氨基酚、马来酸氯苯那敏",
+          "type": "有效成分"
+        },
+        {
+          "entity": "颗粒剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "复方",
+          "type": "规格"
+        },
+        {
+          "entity": "冲服",
+          "type": "用法"
+        },
+        {
+          "entity": "按年龄体重",
+          "type": "用量"
+        },
+        {
+          "entity": "按需分次",
+          "type": "频次"
+        },
+        {
+          "entity": "儿童感冒发热鼻塞流涕",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肝肾不全",
+          "type": "禁忌"
+        },
+        {
+          "entity": "不可叠加其他儿童感冒药",
+          "type": "注意事项"
+        },
+        {
+          "entity": "轻微嗜睡",
+          "type": "不良反应"
+        },
+        {
+          "entity": "婴幼儿",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "少吃甜饮料生冷辅食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "益生菌",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议儿童感冒优先物理降温再用药",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_10",
+    "title": "药品文档_11",
+    "text": "阿莫西林胶囊商品名阿莫仙，成分为阿莫西林，胶囊0.25g，口服一次2粒一日3次，用于呼吸道泌尿感染；青霉素过敏者禁用，偶见皮疹呕吐；孕妇哺乳期慎用，服药期间禁酒，不与益生菌同服，建议足量足疗程服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "阿莫西林胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "阿莫西林胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "阿莫仙",
+          "type": "商品名"
+        },
+        {
+          "entity": "阿莫西林",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.25g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "2粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "呼吸道泌尿感染",
+          "type": "适应症"
+        },
+        {
+          "entity": "青霉素过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇哺乳期慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "皮疹呕吐",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、哺乳期",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "禁酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "益生菌",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议足量足疗程服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_11",
+    "title": "药品文档_12",
+    "text": "头孢克肟分散片商品名世福素，成分头孢克肟，分散片0.1g，口服一次1片一日2次，治疗呼吸道肠道感染；头孢过敏者禁用，服药及停药7天内禁酒，偶见腹泻；肾功能不全者减量，忌辛辣刺激，不与活菌制剂联用，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "头孢克肟分散片",
+          "type": "药品名"
+        },
+        {
+          "entity": "头孢克肟分散片",
+          "type": "通用名"
+        },
+        {
+          "entity": "世福素",
+          "type": "商品名"
+        },
+        {
+          "entity": "头孢克肟",
+          "type": "有效成分"
+        },
+        {
+          "entity": "分散片",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.1g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "呼吸道肠道感染",
+          "type": "适应症"
+        },
+        {
+          "entity": "头孢过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "服药及停药7天内禁酒",
+          "type": "注意事项"
+        },
+        {
+          "entity": "腹泻",
+          "type": "不良反应"
+        },
+        {
+          "entity": "肾功能不全",
+          "type": "慢病"
+        },
+        {
+          "entity": "忌辛辣刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "活菌制剂",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_12",
+    "title": "药品文档_13",
+    "text": "氨溴索口服溶液商品名沐舒坦，成分为氨溴索，口服溶液100ml，口服一次10ml一日3次，用于痰多咳嗽；过敏者禁用，偶见胃部不适；孕妇前三月慎用，忌甜食油腻，可与抗生素联用，建议多喝水稀释痰液。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "氨溴索口服溶液",
+          "type": "药品名"
+        },
+        {
+          "entity": "氨溴索口服溶液",
+          "type": "通用名"
+        },
+        {
+          "entity": "沐舒坦",
+          "type": "商品名"
+        },
+        {
+          "entity": "氨溴索",
+          "type": "有效成分"
+        },
+        {
+          "entity": "口服溶液",
+          "type": "剂型"
+        },
+        {
+          "entity": "100ml",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "10ml",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "痰多咳嗽",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇前三月慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "胃部不适",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌甜食油腻",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗生素",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议多喝水稀释痰液",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_13",
+    "title": "药品文档_14",
+    "text": "左西替利嗪片商品名迪皿，成分左西替利嗪，片剂5mg，口服一日1次一次1片，缓解过敏鼻炎荨麻疹；过敏者禁用，基本无嗜睡，偶见口干；肝肾不全者慎用，少吃海鲜发物，不与镇静药同服，建议睡前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "左西替利嗪片",
+          "type": "药品名"
+        },
+        {
+          "entity": "左西替利嗪片",
+          "type": "通用名"
+        },
+        {
+          "entity": "迪皿",
+          "type": "商品名"
+        },
+        {
+          "entity": "左西替利嗪",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "5mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "过敏鼻炎荨麻疹",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "基本无嗜睡",
+          "type": "注意事项"
+        },
+        {
+          "entity": "口干",
+          "type": "不良反应"
+        },
+        {
+          "entity": "肝肾不全",
+          "type": "慢病"
+        },
+        {
+          "entity": "少吃海鲜发物",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "镇静药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议睡前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_14",
+    "title": "药品文档_15",
+    "text": "多潘立酮片商品名吗丁啉，成分多潘立酮，片剂10mg，口服一次1片一日3次，用于胃胀恶心呕吐；心动过速患者禁用，偶见口干头痛；孕妇儿童慎用，忌暴饮暴食，不与抗胆碱药联用，建议饭前15-30分钟服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "多潘立酮片",
+          "type": "药品名"
+        },
+        {
+          "entity": "多潘立酮片",
+          "type": "通用名"
+        },
+        {
+          "entity": "吗丁啉",
+          "type": "商品名"
+        },
+        {
+          "entity": "多潘立酮",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "10mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "胃胀恶心呕吐",
+          "type": "适应症"
+        },
+        {
+          "entity": "心动过速患者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "口干头痛",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌暴饮暴食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗胆碱药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭前15-30分钟服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_15",
+    "title": "药品文档_16",
+    "text": "葡萄糖酸钙口服液商品名三精，成分葡萄糖酸钙，口服液10ml，口服一次1支一日3次，用于缺钙抽搐过敏；高钙血症禁用，偶见便秘；儿童孕妇可使用，少喝浓茶咖啡，可与维生素D联用，建议饭后服用促进吸收。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "葡萄糖酸钙口服液",
+          "type": "药品名"
+        },
+        {
+          "entity": "葡萄糖酸钙口服液",
+          "type": "通用名"
+        },
+        {
+          "entity": "三精",
+          "type": "商品名"
+        },
+        {
+          "entity": "葡萄糖酸钙",
+          "type": "有效成分"
+        },
+        {
+          "entity": "口服液",
+          "type": "剂型"
+        },
+        {
+          "entity": "10ml",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1支",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "缺钙抽搐过敏",
+          "type": "适应症"
+        },
+        {
+          "entity": "高钙血症",
+          "type": "禁忌"
+        },
+        {
+          "entity": "儿童孕妇可使用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "便秘",
+          "type": "不良反应"
+        },
+        {
+          "entity": "儿童、孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "少喝浓茶咖啡",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "维生素D",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用促进吸收",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_16",
+    "title": "药品文档_17",
+    "text": "利巴韦林颗粒商品名病毒唑，成分利巴韦林，颗粒剂50mg，开水冲服一次1袋一日3次，治疗病毒感冒疱疹；孕妇禁用，偶见贫血乏力；哺乳期儿童慎用，忌生冷刺激，不与抗病毒药叠加，建议按疗程服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "利巴韦林颗粒",
+          "type": "药品名"
+        },
+        {
+          "entity": "利巴韦林颗粒",
+          "type": "通用名"
+        },
+        {
+          "entity": "病毒唑",
+          "type": "商品名"
+        },
+        {
+          "entity": "利巴韦林",
+          "type": "有效成分"
+        },
+        {
+          "entity": "颗粒剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "50mg",
+          "type": "规格"
+        },
+        {
+          "entity": "开水冲服",
+          "type": "用法"
+        },
+        {
+          "entity": "1袋",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "病毒感冒疱疹",
+          "type": "适应症"
+        },
+        {
+          "entity": "孕妇",
+          "type": "禁忌"
+        },
+        {
+          "entity": "哺乳期儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "贫血乏力",
+          "type": "不良反应"
+        },
+        {
+          "entity": "哺乳期、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌生冷刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗病毒药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议按疗程服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_17",
+    "title": "药品文档_18",
+    "text": "甲硝唑片商品名甲硝唑，成分甲硝唑，片剂0.2g，口服一次1片一日3次，治疗口腔感染滴虫；酒精过敏者禁用，服药禁酒，偶见恶心；孕妇哺乳期禁用，忌辛辣饮酒，不与头孢叠加，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "甲硝唑片",
+          "type": "药品名"
+        },
+        {
+          "entity": "甲硝唑片",
+          "type": "通用名"
+        },
+        {
+          "entity": "甲硝唑",
+          "type": "商品名"
+        },
+        {
+          "entity": "甲硝唑",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.2g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "口腔感染滴虫",
+          "type": "适应症"
+        },
+        {
+          "entity": "酒精过敏者、孕妇哺乳期",
+          "type": "禁忌"
+        },
+        {
+          "entity": "服药禁酒",
+          "type": "注意事项"
+        },
+        {
+          "entity": "恶心",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、哺乳期",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌辛辣饮酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "头孢",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_18",
+    "title": "药品文档_19",
+    "text": "对乙酰氨基酚混悬液商品名泰诺林，成分对乙酰氨基酚，混悬液30ml，口服按体重一次5-10ml，儿童退烧止痛；严重肝不全禁用，偶见皮疹；婴幼儿慎用，服药禁酒，不可与复方感冒药联用，建议体温超38.5℃服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "对乙酰氨基酚混悬液",
+          "type": "药品名"
+        },
+        {
+          "entity": "对乙酰氨基酚混悬液",
+          "type": "通用名"
+        },
+        {
+          "entity": "泰诺林",
+          "type": "商品名"
+        },
+        {
+          "entity": "对乙酰氨基酚",
+          "type": "有效成分"
+        },
+        {
+          "entity": "混悬液",
+          "type": "剂型"
+        },
+        {
+          "entity": "30ml",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "按体重5-10ml",
+          "type": "用量"
+        },
+        {
+          "entity": "按需",
+          "type": "频次"
+        },
+        {
+          "entity": "儿童退烧止痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肝不全",
+          "type": "禁忌"
+        },
+        {
+          "entity": "婴幼儿慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "皮疹",
+          "type": "不良反应"
+        },
+        {
+          "entity": "婴幼儿",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "禁酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "复方感冒药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议体温超38.5℃服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_19",
+    "title": "药品文档_20",
+    "text": "布洛芬混悬液商品名美林，成分布洛芬，混悬液100ml，口服按体重一次5ml，儿童发热止痛；胃溃疡禁用，偶见肠胃不适；6个月以下婴儿慎用，忌辛辣刺激，不与阿司匹林联用，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "布洛芬混悬液",
+          "type": "药品名"
+        },
+        {
+          "entity": "布洛芬混悬液",
+          "type": "通用名"
+        },
+        {
+          "entity": "美林",
+          "type": "商品名"
+        },
+        {
+          "entity": "布洛芬",
+          "type": "有效成分"
+        },
+        {
+          "entity": "混悬液",
+          "type": "剂型"
+        },
+        {
+          "entity": "100ml",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "按体重5ml",
+          "type": "用量"
+        },
+        {
+          "entity": "按需",
+          "type": "频次"
+        },
+        {
+          "entity": "儿童发热止痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "胃溃疡",
+          "type": "禁忌"
+        },
+        {
+          "entity": "6个月以下婴儿慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "肠胃不适",
+          "type": "不良反应"
+        },
+        {
+          "entity": "婴儿",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌辛辣刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "阿司匹林",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_20",
+    "title": "药品文档_21",
+    "text": "马来酸氯苯那敏片商品名扑尔敏，成分马来酸氯苯那敏，片剂4mg，口服一次1片一日3次，抗过敏止痒；癫痫患者禁用，易嗜睡犯困，偶见口干；孕妇老年慎用，忌高空作业驾车，不与镇静药联用，建议睡前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "马来酸氯苯那敏片",
+          "type": "药品名"
+        },
+        {
+          "entity": "马来酸氯苯那敏片",
+          "type": "通用名"
+        },
+        {
+          "entity": "扑尔敏",
+          "type": "商品名"
+        },
+        {
+          "entity": "马来酸氯苯那敏",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "4mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "抗过敏止痒",
+          "type": "适应症"
+        },
+        {
+          "entity": "癫痫患者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "易嗜睡犯困",
+          "type": "注意事项"
+        },
+        {
+          "entity": "口干",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、老年",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌高空作业驾车",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "镇静药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议睡前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_21",
+    "title": "药品文档_22",
+    "text": "枸橼酸莫沙必利片商品名快力，成分莫沙必利，片剂5mg，口服一次1片一日3次，改善胃胀嗳气；胃肠道出血禁用，偶见腹泻腹痛；儿童孕妇慎用，规律饮食，不与抗胆碱药联用，建议饭前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "枸橼酸莫沙必利片",
+          "type": "药品名"
+        },
+        {
+          "entity": "枸橼酸莫沙必利片",
+          "type": "通用名"
+        },
+        {
+          "entity": "快力",
+          "type": "商品名"
+        },
+        {
+          "entity": "莫沙必利",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "5mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "改善胃胀嗳气",
+          "type": "适应症"
+        },
+        {
+          "entity": "胃肠道出血",
+          "type": "禁忌"
+        },
+        {
+          "entity": "儿童孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "腹泻腹痛",
+          "type": "不良反应"
+        },
+        {
+          "entity": "儿童、孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "规律饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗胆碱药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_22",
+    "title": "药品文档_23",
+    "text": "兰索拉唑肠溶片商品名达克普隆，成分兰索拉唑，肠溶片15mg，口服一日1次一次1片，胃溃疡反流性食管炎；过敏者禁用，偶见头痛便秘；老人肝病减量，忌咖啡浓茶，不与氯吡格雷联用，建议晨起空腹服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "兰索拉唑肠溶片",
+          "type": "药品名"
+        },
+        {
+          "entity": "兰索拉唑肠溶片",
+          "type": "通用名"
+        },
+        {
+          "entity": "达克普隆",
+          "type": "商品名"
+        },
+        {
+          "entity": "兰索拉唑",
+          "type": "有效成分"
+        },
+        {
+          "entity": "肠溶片",
+          "type": "剂型"
+        },
+        {
+          "entity": "15mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "胃溃疡反流性食管炎",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "老人肝病减量",
+          "type": "注意事项"
+        },
+        {
+          "entity": "头痛便秘",
+          "type": "不良反应"
+        },
+        {
+          "entity": "老人",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝病",
+          "type": "慢病"
+        },
+        {
+          "entity": "忌咖啡浓茶",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "氯吡格雷",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议晨起空腹服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_23",
+    "title": "药品文档_24",
+    "text": "缬沙坦胶囊商品名代文，成分缬沙坦，胶囊80mg，口服一日1次一次1粒，高血压治疗；过敏者禁用，偶见头晕乏力；孕妇哺乳期禁用，低盐饮食，不与保钾药联用，建议固定时间服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "缬沙坦胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "缬沙坦胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "代文",
+          "type": "商品名"
+        },
+        {
+          "entity": "缬沙坦",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "80mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血压治疗",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者、孕妇哺乳期",
+          "type": "禁忌"
+        },
+        {
+          "entity": "偶见头晕乏力",
+          "type": "注意事项"
+        },
+        {
+          "entity": "头晕乏力",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、哺乳期",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低盐饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "保钾药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议固定时间服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_24",
+    "title": "药品文档_25",
+    "text": "二甲双胍片商品名格华止，成分二甲双胍，片剂0.5g，口服一次1片一日2次，2型糖尿病降糖；肾病心衰禁用，偶见腹胀腹泻；孕妇老年慎用，低糖饮食，不与酒精同服，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "二甲双胍片",
+          "type": "药品名"
+        },
+        {
+          "entity": "二甲双胍片",
+          "type": "通用名"
+        },
+        {
+          "entity": "格华止",
+          "type": "商品名"
+        },
+        {
+          "entity": "二甲双胍",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.5g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "2型糖尿病降糖",
+          "type": "适应症"
+        },
+        {
+          "entity": "肾病心衰",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇老年慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "腹胀腹泻",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、老年",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肾病、心衰",
+          "type": "慢病"
+        },
+        {
+          "entity": "低糖饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "酒精",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_25",
+    "title": "药品文档_26",
+    "text": "辛伐他汀片商品名舒降之，成分辛伐他汀，片剂20mg，口服每晚1次一次1片，高血脂冠心病；肝损禁用，偶见肌肉酸痛；孕妇肝病禁用，低脂饮食，不与贝特类联用，建议睡前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "辛伐他汀片",
+          "type": "药品名"
+        },
+        {
+          "entity": "辛伐他汀片",
+          "type": "通用名"
+        },
+        {
+          "entity": "舒降之",
+          "type": "商品名"
+        },
+        {
+          "entity": "辛伐他汀",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "20mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "每晚1次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血脂冠心病",
+          "type": "适应症"
+        },
+        {
+          "entity": "肝损、孕妇肝病",
+          "type": "禁忌"
+        },
+        {
+          "entity": "偶见肌肉酸痛",
+          "type": "注意事项"
+        },
+        {
+          "entity": "肌肉酸痛",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝病",
+          "type": "慢病"
+        },
+        {
+          "entity": "低脂饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "贝特类",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议睡前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_26",
+    "title": "药品文档_27",
+    "text": "硝苯地平缓释片商品名拜新同，成分硝苯地平，缓释片30mg，口服一日1次一次1片，高血压心绞痛；心源性休克禁用，偶见面部潮红；孕妇慎用，低盐饮食，不与降压药叠加，建议晨起服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "硝苯地平缓释片",
+          "type": "药品名"
+        },
+        {
+          "entity": "硝苯地平缓释片",
+          "type": "通用名"
+        },
+        {
+          "entity": "拜新同",
+          "type": "商品名"
+        },
+        {
+          "entity": "硝苯地平",
+          "type": "有效成分"
+        },
+        {
+          "entity": "缓释片",
+          "type": "剂型"
+        },
+        {
+          "entity": "30mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血压心绞痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "心源性休克",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "面部潮红",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低盐饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "降压药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议晨起服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_27",
+    "title": "药品文档_28",
+    "text": "美托洛尔片商品名倍他乐克，成分美托洛尔，片剂25mg，口服一日2次一次半片-1片，高血压心绞痛；哮喘心动过缓禁用，偶见乏力头晕；孕妇慎用，低盐饮食，不与维拉帕米联用，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "美托洛尔片",
+          "type": "药品名"
+        },
+        {
+          "entity": "美托洛尔片",
+          "type": "通用名"
+        },
+        {
+          "entity": "倍他乐克",
+          "type": "商品名"
+        },
+        {
+          "entity": "美托洛尔",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "25mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "半片-1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血压心绞痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "哮喘心动过缓",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "乏力头晕",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低盐饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "维拉帕米",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_28",
+    "title": "药品文档_29",
+    "text": "格列齐特片商品名达美康，成分格列齐特，片剂80mg，口服一日1-2次一次1片，2型糖尿病降糖；酮症酸中毒禁用，偶见低血糖心慌；孕妇肝不全禁用，低糖饮食，不与酒精联用，建议饭前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "格列齐特片",
+          "type": "药品名"
+        },
+        {
+          "entity": "格列齐特片",
+          "type": "通用名"
+        },
+        {
+          "entity": "达美康",
+          "type": "商品名"
+        },
+        {
+          "entity": "格列齐特",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "80mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1-2次",
+          "type": "频次"
+        },
+        {
+          "entity": "2型糖尿病降糖",
+          "type": "适应症"
+        },
+        {
+          "entity": "酮症酸中毒、孕妇肝不全",
+          "type": "禁忌"
+        },
+        {
+          "entity": "偶见低血糖心慌",
+          "type": "注意事项"
+        },
+        {
+          "entity": "低血糖心慌",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝不全",
+          "type": "慢病"
+        },
+        {
+          "entity": "低糖饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "酒精",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_29",
+    "title": "药品文档_30",
+    "text": "阿司匹林肠溶片商品名阿司匹林，成分阿司匹林，肠溶片100mg，口服一日1次一次1片，预防血栓心梗；胃溃疡出血禁用，偶见肠胃不适；孕妇哮喘慎用，忌酒精刺激，不与布洛芬联用，建议空腹服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "阿司匹林肠溶片",
+          "type": "药品名"
+        },
+        {
+          "entity": "阿司匹林肠溶片",
+          "type": "通用名"
+        },
+        {
+          "entity": "阿司匹林",
+          "type": "商品名"
+        },
+        {
+          "entity": "阿司匹林",
+          "type": "有效成分"
+        },
+        {
+          "entity": "肠溶片",
+          "type": "剂型"
+        },
+        {
+          "entity": "100mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "预防血栓心梗",
+          "type": "适应症"
+        },
+        {
+          "entity": "胃溃疡出血",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇哮喘慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "肠胃不适",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "哮喘",
+          "type": "慢病"
+        },
+        {
+          "entity": "忌酒精刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "布洛芬",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议空腹服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_30",
+    "title": "药品文档_31",
+    "text": "双氯芬酸钠缓释胶囊商品名英太青，成分双氯芬酸钠，胶囊0.1g，口服一日1次一次1粒，关节痛牙痛止痛；严重肝肾功能不全禁用，偶见胃痛头痛；孕妇儿童慎用，忌辛辣饮酒，不与阿司匹林联用，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "双氯芬酸钠缓释胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "双氯芬酸钠缓释胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "英太青",
+          "type": "商品名"
+        },
+        {
+          "entity": "双氯芬酸钠",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.1g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "关节痛牙痛止痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "严重肝肾功能不全",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "胃痛头痛",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌辛辣饮酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "阿司匹林",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_31",
+    "title": "药品文档_32",
+    "text": "萘普生片商品名萘普生，成分萘普生，片剂0.1g，口服一次1片一日2次，缓解疼痛发热；胃溃疡禁用，偶见头晕恶心；孕妇哺乳期慎用，忌生冷刺激，不与其他退烧药联用，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "萘普生片",
+          "type": "药品名"
+        },
+        {
+          "entity": "萘普生片",
+          "type": "通用名"
+        },
+        {
+          "entity": "萘普生",
+          "type": "商品名"
+        },
+        {
+          "entity": "萘普生",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "0.1g",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "缓解疼痛发热",
+          "type": "适应症"
+        },
+        {
+          "entity": "胃溃疡",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇哺乳期慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "头晕恶心",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、哺乳期",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌生冷刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "其他退烧药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_32",
+    "title": "药品文档_33",
+    "text": "胰酶肠溶胶囊商品名得每通，成分胰酶，胶囊150mg，口服一次1粒一日3次，消化不良食欲不振；急性胰腺炎禁用，偶见便秘；儿童孕妇慎用，规律饮食，不与酸性药物联用，建议饭前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "胰酶肠溶胶囊",
+          "type": "药品名"
+        },
+        {
+          "entity": "胰酶肠溶胶囊",
+          "type": "通用名"
+        },
+        {
+          "entity": "得每通",
+          "type": "商品名"
+        },
+        {
+          "entity": "胰酶",
+          "type": "有效成分"
+        },
+        {
+          "entity": "胶囊",
+          "type": "剂型"
+        },
+        {
+          "entity": "150mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1粒",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "消化不良食欲不振",
+          "type": "适应症"
+        },
+        {
+          "entity": "急性胰腺炎",
+          "type": "禁忌"
+        },
+        {
+          "entity": "儿童孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "便秘",
+          "type": "不良反应"
+        },
+        {
+          "entity": "儿童、孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "规律饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "酸性药物",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_33",
+    "title": "药品文档_34",
+    "text": "乳果糖口服溶液商品名杜密克，成分乳果糖，口服溶液100ml，口服一次10ml一日1-2次，慢性便秘；肠梗阻禁用，偶见腹胀腹泻；孕妇儿童可用，少辛辣刺激，可与益生菌联用，建议晨起服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "乳果糖口服溶液",
+          "type": "药品名"
+        },
+        {
+          "entity": "乳果糖口服溶液",
+          "type": "通用名"
+        },
+        {
+          "entity": "杜密克",
+          "type": "商品名"
+        },
+        {
+          "entity": "乳果糖",
+          "type": "有效成分"
+        },
+        {
+          "entity": "口服溶液",
+          "type": "剂型"
+        },
+        {
+          "entity": "100ml",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "10ml",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1-2次",
+          "type": "频次"
+        },
+        {
+          "entity": "慢性便秘",
+          "type": "适应症"
+        },
+        {
+          "entity": "肠梗阻",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童可用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "腹胀腹泻",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "少辛辣刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "益生菌",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议晨起服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_34",
+    "title": "药品文档_35",
+    "text": "匹维溴铵片商品名得舒特，成分匹维溴铵，片剂50mg，口服一次1片一日3次，肠易激腹痛；过敏者禁用，偶见口干恶心；孕妇儿童慎用，规律饮食，不与抗胆碱药联用，建议饭中服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "匹维溴铵片",
+          "type": "药品名"
+        },
+        {
+          "entity": "匹维溴铵片",
+          "type": "通用名"
+        },
+        {
+          "entity": "得舒特",
+          "type": "商品名"
+        },
+        {
+          "entity": "匹维溴铵",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "50mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "肠易激腹痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "口干恶心",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "规律饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗胆碱药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭中服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_35",
+    "title": "药品文档_36",
+    "text": "呋塞米片商品名速尿，成分呋塞米，片剂20mg，口服一日1次一次1片，水肿利尿；低钾血症禁用，偶见电解质紊乱；孕妇慎用，低盐补钾，不与氨基糖苷类联用，建议上午服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "呋塞米片",
+          "type": "药品名"
+        },
+        {
+          "entity": "呋塞米片",
+          "type": "通用名"
+        },
+        {
+          "entity": "速尿",
+          "type": "商品名"
+        },
+        {
+          "entity": "呋塞米",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "20mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "水肿利尿",
+          "type": "适应症"
+        },
+        {
+          "entity": "低钾血症",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "电解质紊乱",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低盐补钾",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "氨基糖苷类",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议上午服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_36",
+    "title": "药品文档_37",
+    "text": "螺内酯片商品名安体舒通，成分螺内酯，片剂20mg，口服一日1次一次1片，保钾利尿；高钾血症禁用，偶见乳房胀痛；孕妇慎用，忌高钾食物，不与缬沙坦联用，建议饭后服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "螺内酯片",
+          "type": "药品名"
+        },
+        {
+          "entity": "螺内酯片",
+          "type": "通用名"
+        },
+        {
+          "entity": "安体舒通",
+          "type": "商品名"
+        },
+        {
+          "entity": "螺内酯",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "20mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "保钾利尿",
+          "type": "适应症"
+        },
+        {
+          "entity": "高钾血症",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "乳房胀痛",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌高钾食物",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "缬沙坦",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭后服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_37",
+    "title": "药品文档_38",
+    "text": "氯吡格雷片商品名波立维，成分氯吡格雷，片剂75mg，口服一日1次一次1片，预防血栓心梗；出血倾向禁用，偶见皮下出血；孕妇肝病慎用，忌酒精刺激，不与奥美拉唑联用，建议固定时间服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "氯吡格雷片",
+          "type": "药品名"
+        },
+        {
+          "entity": "氯吡格雷片",
+          "type": "通用名"
+        },
+        {
+          "entity": "波立维",
+          "type": "商品名"
+        },
+        {
+          "entity": "氯吡格雷",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "75mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "预防血栓心梗",
+          "type": "适应症"
+        },
+        {
+          "entity": "出血倾向",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇肝病慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "皮下出血",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝病",
+          "type": "慢病"
+        },
+        {
+          "entity": "忌酒精刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "奥美拉唑",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议固定时间服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_38",
+    "title": "药品文档_39",
+    "text": "阿托伐他汀钙片商品名立普妥，成分阿托伐他汀钙，片剂20mg，口服每晚1次一次1片，高血脂冠心病；肝损禁用，偶见肌肉疼痛；孕妇肝病禁用，低脂饮食，不与贝特类联用，建议睡前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "阿托伐他汀钙片",
+          "type": "药品名"
+        },
+        {
+          "entity": "阿托伐他汀钙片",
+          "type": "通用名"
+        },
+        {
+          "entity": "立普妥",
+          "type": "商品名"
+        },
+        {
+          "entity": "阿托伐他汀钙",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "20mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "每晚1次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血脂冠心病",
+          "type": "适应症"
+        },
+        {
+          "entity": "肝损、孕妇肝病",
+          "type": "禁忌"
+        },
+        {
+          "entity": "偶见肌肉疼痛",
+          "type": "注意事项"
+        },
+        {
+          "entity": "肌肉疼痛",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝病",
+          "type": "慢病"
+        },
+        {
+          "entity": "低脂饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "贝特类",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议睡前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_39",
+    "title": "药品文档_40",
+    "text": "非洛地平缓释片商品名波依定，成分非洛地平，缓释片5mg，口服一日1次一次1片，高血压；过敏者禁用，偶见脚踝水肿；孕妇慎用，低盐饮食，不与其他降压药叠加，建议晨起服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "非洛地平缓释片",
+          "type": "药品名"
+        },
+        {
+          "entity": "非洛地平缓释片",
+          "type": "通用名"
+        },
+        {
+          "entity": "波依定",
+          "type": "商品名"
+        },
+        {
+          "entity": "非洛地平",
+          "type": "有效成分"
+        },
+        {
+          "entity": "缓释片",
+          "type": "剂型"
+        },
+        {
+          "entity": "5mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血压",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "脚踝水肿",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低盐饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "其他降压药",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议晨起服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_40",
+    "title": "药品文档_41",
+    "text": "比索洛尔片商品名康忻，成分比索洛尔，片剂5mg，口服一日1次一次半片-1片，高血压心绞痛；哮喘心动过缓禁用，偶见乏力失眠；孕妇慎用，低盐饮食，不与硝苯地平联用，建议晨起服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "比索洛尔片",
+          "type": "药品名"
+        },
+        {
+          "entity": "比索洛尔片",
+          "type": "通用名"
+        },
+        {
+          "entity": "康忻",
+          "type": "商品名"
+        },
+        {
+          "entity": "比索洛尔",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "5mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "半片-1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "高血压心绞痛",
+          "type": "适应症"
+        },
+        {
+          "entity": "哮喘心动过缓",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "乏力失眠",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低盐饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "硝苯地平",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议晨起服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_41",
+    "title": "药品文档_42",
+    "text": "阿卡波糖片商品名拜唐苹，成分阿卡波糖，片剂50mg，口服一日3次一次1片，2型糖尿病降糖；肠炎肠梗阻禁用，偶见腹胀排气多；孕妇肝不全慎用，低糖饮食，不与酒精联用，建议饭中嚼服。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "阿卡波糖片",
+          "type": "药品名"
+        },
+        {
+          "entity": "阿卡波糖片",
+          "type": "通用名"
+        },
+        {
+          "entity": "拜唐苹",
+          "type": "商品名"
+        },
+        {
+          "entity": "阿卡波糖",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "50mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "2型糖尿病降糖",
+          "type": "适应症"
+        },
+        {
+          "entity": "肠炎肠梗阻",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇肝不全慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "腹胀排气多",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "肝不全",
+          "type": "慢病"
+        },
+        {
+          "entity": "低糖饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "酒精",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭中嚼服",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_42",
+    "title": "药品文档_43",
+    "text": "瑞格列奈片商品名诺和龙，成分瑞格列奈，片剂1mg，口服一日3次一次1片，2型糖尿病降糖；过敏者禁用，偶见低血糖；孕妇儿童慎用，低糖饮食，不与酒精联用，建议饭前15分钟服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "瑞格列奈片",
+          "type": "药品名"
+        },
+        {
+          "entity": "瑞格列奈片",
+          "type": "通用名"
+        },
+        {
+          "entity": "诺和龙",
+          "type": "商品名"
+        },
+        {
+          "entity": "瑞格列奈",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "1mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "一日3次",
+          "type": "频次"
+        },
+        {
+          "entity": "2型糖尿病降糖",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "低血糖",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "低糖饮食",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "酒精",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议饭前15分钟服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_43",
+    "title": "药品文档_44",
+    "text": "孟鲁司特钠片商品名顺尔宁，成分孟鲁司特钠，片剂10mg，口服每晚1次一次1片，哮喘过敏鼻炎；过敏者禁用，偶见头痛兴奋；孕妇儿童慎用，忌过敏原，可与吸入激素联用，建议睡前服用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "孟鲁司特钠片",
+          "type": "药品名"
+        },
+        {
+          "entity": "孟鲁司特钠片",
+          "type": "通用名"
+        },
+        {
+          "entity": "顺尔宁",
+          "type": "商品名"
+        },
+        {
+          "entity": "孟鲁司特钠",
+          "type": "有效成分"
+        },
+        {
+          "entity": "片剂",
+          "type": "剂型"
+        },
+        {
+          "entity": "10mg",
+          "type": "规格"
+        },
+        {
+          "entity": "口服",
+          "type": "用法"
+        },
+        {
+          "entity": "1片",
+          "type": "用量"
+        },
+        {
+          "entity": "每晚1次",
+          "type": "频次"
+        },
+        {
+          "entity": "哮喘过敏鼻炎",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "头痛兴奋",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌过敏原",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "吸入激素",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议睡前服用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_44",
+    "title": "药品文档_45",
+    "text": "布地奈德混悬液商品名普米克，成分布地奈德，混悬液1mg，雾化吸入一次1支一日2次，哮喘慢阻肺；过敏者禁用，偶见口腔真菌感染；孕妇儿童慎用，漱口清洁，可与支气管扩张剂联用，建议雾化后漱口。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "布地奈德混悬液",
+          "type": "药品名"
+        },
+        {
+          "entity": "布地奈德混悬液",
+          "type": "通用名"
+        },
+        {
+          "entity": "普米克",
+          "type": "商品名"
+        },
+        {
+          "entity": "布地奈德",
+          "type": "有效成分"
+        },
+        {
+          "entity": "混悬液",
+          "type": "剂型"
+        },
+        {
+          "entity": "1mg",
+          "type": "规格"
+        },
+        {
+          "entity": "雾化吸入",
+          "type": "用法"
+        },
+        {
+          "entity": "1支",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "哮喘慢阻肺",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇儿童慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "口腔真菌感染",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇、儿童",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "漱口清洁",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "支气管扩张剂",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议雾化后漱口",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_45",
+    "title": "药品文档_46",
+    "text": "特布他林雾化液商品名博利康尼，成分特布他林，雾化液5mg，雾化吸入一次1支一日2次，支气管哮喘；心动过速禁用，偶见心慌手抖；孕妇慎用，忌刺激物，可与激素联用，建议按需雾化。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "特布他林雾化液",
+          "type": "药品名"
+        },
+        {
+          "entity": "特布他林雾化液",
+          "type": "通用名"
+        },
+        {
+          "entity": "博利康尼",
+          "type": "商品名"
+        },
+        {
+          "entity": "特布他林",
+          "type": "有效成分"
+        },
+        {
+          "entity": "雾化液",
+          "type": "剂型"
+        },
+        {
+          "entity": "5mg",
+          "type": "规格"
+        },
+        {
+          "entity": "雾化吸入",
+          "type": "用法"
+        },
+        {
+          "entity": "1支",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "支气管哮喘",
+          "type": "适应症"
+        },
+        {
+          "entity": "心动过速",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "心慌手抖",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌刺激物",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "激素",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议按需雾化",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_46",
+    "title": "药品文档_47",
+    "text": "氨溴索注射液商品名沐舒坦，成分氨溴索，注射液15mg，静脉注射一次1支一日2次，痰多排痰困难；过敏者禁用，偶见恶心呕吐；孕妇慎用，忌甜食油腻，可与抗生素联用，建议遵医嘱使用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "氨溴索注射液",
+          "type": "药品名"
+        },
+        {
+          "entity": "氨溴索注射液",
+          "type": "通用名"
+        },
+        {
+          "entity": "沐舒坦",
+          "type": "商品名"
+        },
+        {
+          "entity": "氨溴索",
+          "type": "有效成分"
+        },
+        {
+          "entity": "注射液",
+          "type": "剂型"
+        },
+        {
+          "entity": "15mg",
+          "type": "规格"
+        },
+        {
+          "entity": "静脉注射",
+          "type": "用法"
+        },
+        {
+          "entity": "1支",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "痰多排痰困难",
+          "type": "适应症"
+        },
+        {
+          "entity": "过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "恶心呕吐",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌甜食油腻",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "抗生素",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议遵医嘱使用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_47",
+    "title": "药品文档_48",
+    "text": "头孢曲松钠注射液商品名罗氏芬，成分头孢曲松钠，注射液1g，静脉注射一次1支一日1次，细菌感染；头孢过敏者禁用，偶见发热皮疹；孕妇慎用，禁酒7天，不与钙剂联用，建议遵医嘱使用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "头孢曲松钠注射液",
+          "type": "药品名"
+        },
+        {
+          "entity": "头孢曲松钠注射液",
+          "type": "通用名"
+        },
+        {
+          "entity": "罗氏芬",
+          "type": "商品名"
+        },
+        {
+          "entity": "头孢曲松钠",
+          "type": "有效成分"
+        },
+        {
+          "entity": "注射液",
+          "type": "剂型"
+        },
+        {
+          "entity": "1g",
+          "type": "规格"
+        },
+        {
+          "entity": "静脉注射",
+          "type": "用法"
+        },
+        {
+          "entity": "1支",
+          "type": "用量"
+        },
+        {
+          "entity": "一日1次",
+          "type": "频次"
+        },
+        {
+          "entity": "细菌感染",
+          "type": "适应症"
+        },
+        {
+          "entity": "头孢过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用、禁酒7天",
+          "type": "注意事项"
+        },
+        {
+          "entity": "发热皮疹",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "禁酒",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "钙剂",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议遵医嘱使用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doc_48",
+    "title": "药品文档_49",
+    "text": "青霉素钠注射液商品名青霉素，成分青霉素钠，注射液80万单位，肌内注射一次1支一日2次，细菌感染；青霉素过敏者禁用，偶见过敏休克；孕妇慎用，忌酒精刺激，不与其他抗生素叠加，建议皮试后使用。",
+    "source_path": "C:\\Users\\31331\\Documents\\trae_projects\\medlens-graphrag\\data.json",
+    "metadata": {
+      "source": "data_json",
+      "entities": [
+        {
+          "entity": "青霉素钠注射液",
+          "type": "药品名"
+        },
+        {
+          "entity": "青霉素钠注射液",
+          "type": "通用名"
+        },
+        {
+          "entity": "青霉素",
+          "type": "商品名"
+        },
+        {
+          "entity": "青霉素钠",
+          "type": "有效成分"
+        },
+        {
+          "entity": "注射液",
+          "type": "剂型"
+        },
+        {
+          "entity": "80万单位",
+          "type": "规格"
+        },
+        {
+          "entity": "肌内注射",
+          "type": "用法"
+        },
+        {
+          "entity": "1支",
+          "type": "用量"
+        },
+        {
+          "entity": "一日2次",
+          "type": "频次"
+        },
+        {
+          "entity": "细菌感染",
+          "type": "适应症"
+        },
+        {
+          "entity": "青霉素过敏者",
+          "type": "禁忌"
+        },
+        {
+          "entity": "孕妇慎用、皮试后使用",
+          "type": "注意事项"
+        },
+        {
+          "entity": "过敏休克",
+          "type": "不良反应"
+        },
+        {
+          "entity": "孕妇",
+          "type": "特殊人群"
+        },
+        {
+          "entity": "忌酒精刺激",
+          "type": "饮食禁忌"
+        },
+        {
+          "entity": "其他抗生素",
+          "type": "联用药品"
+        },
+        {
+          "entity": "建议皮试后使用",
+          "type": "医生建议"
+        }
+      ]
+    }
+  }
+]

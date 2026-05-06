@@ -1,0 +1,5667 @@
+[
+  {
+    "id": "rel_9b6717a9",
+    "source": "对乙酰氨基酚片",
+    "target": "对乙酰氨基酚",
+    "type": "CONTAINS",
+    "description": "对乙酰氨基酚片含有对乙酰氨基酚",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_ef20a3fd",
+    "source": "泰诺林",
+    "target": "对乙酰氨基酚片",
+    "type": "CONTAINS",
+    "description": "泰诺林是对乙酰氨基酚片的商品名",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_e1896ac6",
+    "source": "对乙酰氨基酚片",
+    "target": "普通感冒",
+    "type": "TREATS",
+    "description": "对乙酰氨基酚片用于普通感冒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_8a22ecd1",
+    "source": "对乙酰氨基酚片",
+    "target": "流感",
+    "type": "TREATS",
+    "description": "对乙酰氨基酚片用于流感",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_36086f72",
+    "source": "对乙酰氨基酚片",
+    "target": "发热",
+    "type": "TREATS",
+    "description": "对乙酰氨基酚片缓解发热",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_8a3c3620",
+    "source": "对乙酰氨基酚片",
+    "target": "头痛",
+    "type": "TREATS",
+    "description": "对乙酰氨基酚片缓解头痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_92e7e583",
+    "source": "对乙酰氨基酚片",
+    "target": "牙痛",
+    "type": "TREATS",
+    "description": "对乙酰氨基酚片缓解牙痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_efe24bd5",
+    "source": "对乙酰氨基酚片",
+    "target": "严重肝肾功能不全",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肝肾功能不全者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_2eb071a9",
+    "source": "对乙酰氨基酚片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_3db185ca",
+    "source": "对乙酰氨基酚片",
+    "target": "哺乳期",
+    "type": "CAUTION_FOR",
+    "description": "哺乳期慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_dbb364ef",
+    "source": "对乙酰氨基酚片",
+    "target": "恶心",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见恶心不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_3ad9bdd4",
+    "source": "对乙酰氨基酚片",
+    "target": "乏力",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见乏力不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_5595ad22",
+    "source": "对乙酰氨基酚片",
+    "target": "肝病",
+    "type": "CAUTION_FOR",
+    "description": "肝病患者不宜长期服用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_ee302a4a",
+    "source": "对乙酰氨基酚片",
+    "target": "肾病",
+    "type": "CAUTION_FOR",
+    "description": "肾病患者不宜长期服用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_831a08b5",
+    "source": "对乙酰氨基酚片",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_9406e2aa",
+    "source": "对乙酰氨基酚片",
+    "target": "999感冒灵",
+    "type": "INTERACTS_WITH",
+    "description": "不可与999感冒灵联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_3c47198d",
+    "source": "对乙酰氨基酚片",
+    "target": "0.5g",
+    "type": "HAS_DOSAGE",
+    "description": "规格0.5g",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_0_0"
+    ]
+  },
+  {
+    "id": "rel_a10e4ad2",
+    "source": "布洛芬缓释胶囊",
+    "target": "布洛芬",
+    "type": "CONTAINS",
+    "description": "布洛芬缓释胶囊主要成分为布洛芬",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_643fb2a6",
+    "source": "布洛芬缓释胶囊",
+    "target": "关节痛",
+    "type": "TREATS",
+    "description": "缓解关节痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_d20bc7b4",
+    "source": "布洛芬缓释胶囊",
+    "target": "痛经",
+    "type": "TREATS",
+    "description": "缓解痛经",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_efa6c235",
+    "source": "布洛芬缓释胶囊",
+    "target": "发热",
+    "type": "TREATS",
+    "description": "缓解发热",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_4d35adae",
+    "source": "布洛芬缓释胶囊",
+    "target": "胃溃疡",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "胃溃疡患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_183f7877",
+    "source": "布洛芬缓释胶囊",
+    "target": "胃痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "常见不良反应胃痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_f957b7db",
+    "source": "布洛芬缓释胶囊",
+    "target": "头晕",
+    "type": "RISK_FOR_DISEASE",
+    "description": "常见不良反应头晕",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_2a37d4df",
+    "source": "布洛芬缓释胶囊",
+    "target": "高血压",
+    "type": "CAUTION_FOR",
+    "description": "高血压人群慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_eb6f55f0",
+    "source": "布洛芬缓释胶囊",
+    "target": "心衰",
+    "type": "CAUTION_FOR",
+    "description": "心衰人群慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_b73971f8",
+    "source": "布洛芬缓释胶囊",
+    "target": "辛辣食物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药忌辛辣",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_486aeb5d",
+    "source": "布洛芬缓释胶囊",
+    "target": "阿司匹林",
+    "type": "INTERACTS_WITH",
+    "description": "勿与阿司匹林同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_64a72db9",
+    "source": "布洛芬缓释胶囊",
+    "target": "成人",
+    "type": "CAUTION_FOR",
+    "description": "成人口服一次1粒早晚各1次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_3e163175",
+    "source": "布洛芬缓释胶囊",
+    "target": "老人",
+    "type": "CAUTION_FOR",
+    "description": "老人减量使用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_19b58ea4",
+    "source": "布洛芬缓释胶囊",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童减量使用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_1_0"
+    ]
+  },
+  {
+    "id": "rel_757f79bc",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "对乙酰氨基酚",
+    "type": "CONTAINS",
+    "description": "复方氨酚烷胺胶囊含有对乙酰氨基酚",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_89fa5d0c",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "金刚烷胺",
+    "type": "CONTAINS",
+    "description": "复方氨酚烷胺胶囊含有金刚烷胺",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_d04f9e78",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "感冒",
+    "type": "TREATS",
+    "description": "适用于感冒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_c0ef5ee1",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "鼻塞",
+    "type": "TREATS",
+    "description": "缓解鼻塞症状",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_a002dbde",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "流涕",
+    "type": "TREATS",
+    "description": "缓解流涕症状",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_9f121866",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "四肢酸痛",
+    "type": "TREATS",
+    "description": "缓解四肢酸痛症状",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_508d38cd",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "严重肝肾不全",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肝肾不全者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_7fbca4a5",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "嗜睡",
+    "type": "RISK_FOR_DISEASE",
+    "description": "副作用嗜睡",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_5f3395cc",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "口干",
+    "type": "RISK_FOR_DISEASE",
+    "description": "副作用口干",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_a8b82f75",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "青光眼",
+    "type": "CAUTION_FOR",
+    "description": "青光眼患者慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_05cb9559",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "前列腺肥大",
+    "type": "CAUTION_FOR",
+    "description": "前列腺肥大患者慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_9d7de0ff",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "酒",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药期间禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_eaa5f151",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "浓茶",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药期间禁浓茶",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_a435df2e",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "复方感冒药",
+    "type": "INTERACTS_WITH",
+    "description": "不叠加其他复方感冒药",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_d1595c35",
+    "source": "复方氨酚烷胺胶囊",
+    "target": "成人",
+    "type": "HAS_DOSAGE",
+    "description": "成人一次1粒一日2次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_2_0"
+    ]
+  },
+  {
+    "id": "rel_40b773c2",
+    "source": "蒙脱石散",
+    "target": "蒙脱石",
+    "type": "CONTAINS",
+    "description": "蒙脱石散的有效成分为蒙脱石",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_4b16cb79",
+    "source": "蒙脱石散",
+    "target": "思密达",
+    "type": "CONTAINS",
+    "description": "思密达是蒙脱石散的商品名",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_bca8c114",
+    "source": "蒙脱石散",
+    "target": "必奇",
+    "type": "CONTAINS",
+    "description": "必奇是蒙脱石散的商品名",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_b11904c0",
+    "source": "蒙脱石散",
+    "target": "腹泻",
+    "type": "TREATS",
+    "description": "蒙脱石散治疗成人儿童急慢性腹泻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_cdfd31a9",
+    "source": "蒙脱石散",
+    "target": "成人",
+    "type": "CAUTION_FOR",
+    "description": "蒙脱石散可用于成人",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_bf58747b",
+    "source": "蒙脱石散",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "蒙脱石散可用于儿童",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_c3f56aff",
+    "source": "蒙脱石散",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用蒙脱石散",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_ea4eed6e",
+    "source": "蒙脱石散",
+    "target": "便秘",
+    "type": "RISK_FOR_DISEASE",
+    "description": "过量使用蒙脱石散易引发便秘",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_fbc6497e",
+    "source": "蒙脱石散",
+    "target": "便秘体质",
+    "type": "CAUTION_FOR",
+    "description": "便秘体质人群慎用蒙脱石散",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_400793da",
+    "source": "蒙脱石散",
+    "target": "生冷油腻饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用蒙脱石散期间忌生冷油腻饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_f83f1e85",
+    "source": "蒙脱石散",
+    "target": "口服补液盐",
+    "type": "INTERACTS_WITH",
+    "description": "蒙脱石散可搭配口服补液盐使用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_3_0"
+    ]
+  },
+  {
+    "id": "rel_917fc04f",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "铝碳酸镁",
+    "type": "CONTAINS",
+    "description": "铝碳酸镁咀嚼片含有铝碳酸镁成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_354d5640",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "胃酸过多",
+    "type": "TREATS",
+    "description": "用于治疗胃酸过多引起的烧心、反酸、胃痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_725b238b",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "严重肾衰",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肾衰患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_bc235ee7",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "肾病",
+    "type": "CAUTION_FOR",
+    "description": "肾病患者慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_c9ef0e87",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "高钙血症",
+    "type": "CAUTION_FOR",
+    "description": "高钙血症患者慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_da2bbae3",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "咖啡",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "少喝咖啡",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_28c2aeba",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "浓茶",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "少喝浓茶",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_030a800f",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "碳酸饮料",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "少喝碳酸饮料",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_7f460c2c",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "抗生素",
+    "type": "INTERACTS_WITH",
+    "description": "不与抗生素同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_66d5890f",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "0.5g",
+    "type": "HAS_DOSAGE",
+    "description": "每片规格0.5g",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_1de4a62a",
+    "source": "铝碳酸镁咀嚼片",
+    "target": "一次1至2片咀嚼服用一日3次",
+    "type": "HAS_DOSAGE",
+    "description": "用法用量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_4_0"
+    ]
+  },
+  {
+    "id": "rel_831cc7f3",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "奥美拉唑",
+    "type": "CONTAINS",
+    "description": "有效成分为奥美拉唑",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_5084dc40",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "胃溃疡",
+    "type": "TREATS",
+    "description": "治疗胃溃疡",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_f6fd24bf",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "反流性食管炎",
+    "type": "TREATS",
+    "description": "治疗反流性食管炎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_674a6c51",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "严重肝损",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肝损禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_fe5b6fc3",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_6786cb4a",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "头痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "少见不良反应",
+    "weight": 0.3,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_9510c1fc",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "腹泻",
+    "type": "RISK_FOR_DISEASE",
+    "description": "少见不良反应",
+    "weight": 0.3,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_c51c9a79",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "老人",
+    "type": "CAUTION_FOR",
+    "description": "老人需减量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_2a8a1a8d",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "肝病患者",
+    "type": "CAUTION_FOR",
+    "description": "肝病患者需减量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_55378d36",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "氯吡格雷",
+    "type": "INTERACTS_WITH",
+    "description": "慎与氯吡格雷联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_cdef052a",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "酒",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_83ea427b",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "辛辣",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "禁辛辣",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_536b1aef",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "暴饮暴食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "避免暴饮暴食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_d44fe2fe",
+    "source": "奥美拉唑肠溶胶囊",
+    "target": "20mg",
+    "type": "HAS_DOSAGE",
+    "description": "胶囊20mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_5_0"
+    ]
+  },
+  {
+    "id": "rel_593aee51",
+    "source": "氯雷他定片",
+    "target": "氯雷他定",
+    "type": "CONTAINS",
+    "description": "氯雷他定片含有氯雷他定成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_4b79e3ad",
+    "source": "氯雷他定片",
+    "target": "过敏性鼻炎",
+    "type": "TREATS",
+    "description": "氯雷他定片用于治疗过敏性鼻炎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_b9deadb5",
+    "source": "氯雷他定片",
+    "target": "荨麻疹",
+    "type": "TREATS",
+    "description": "氯雷他定片用于治疗荨麻疹",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_3f6dd661",
+    "source": "氯雷他定片",
+    "target": "皮肤瘙痒",
+    "type": "TREATS",
+    "description": "氯雷他定片用于缓解皮肤瘙痒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_23a1ee0e",
+    "source": "氯雷他定片",
+    "target": "过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用氯雷他定片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_170c0626",
+    "source": "氯雷他定片",
+    "target": "肝肾功能不全人群",
+    "type": "CAUTION_FOR",
+    "description": "肝肾功能不全人群需减量服用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_b7fc51bd",
+    "source": "氯雷他定片",
+    "target": "海鲜",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用氯雷他定片期间应少吃海鲜",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_644d15a2",
+    "source": "氯雷他定片",
+    "target": "芒果",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用氯雷他定片期间应少吃芒果",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_2d24230e",
+    "source": "氯雷他定片",
+    "target": "发物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用氯雷他定片期间应少吃发物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_e4edc9cb",
+    "source": "氯雷他定片",
+    "target": "其他抗过敏药",
+    "type": "INTERACTS_WITH",
+    "description": "不应与其他抗过敏药叠加使用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_b513e940",
+    "source": "氯雷他定片",
+    "target": "乏力",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见乏力不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_e6612952",
+    "source": "氯雷他定片",
+    "target": "口干",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见口干不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_6_0"
+    ]
+  },
+  {
+    "id": "rel_fecc036d",
+    "source": "藿香正气胶囊",
+    "target": "广藿香",
+    "type": "CONTAINS",
+    "description": "藿香正气胶囊含有广藿香成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_20e09487",
+    "source": "藿香正气胶囊",
+    "target": "紫苏叶",
+    "type": "CONTAINS",
+    "description": "藿香正气胶囊含有紫苏叶成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_98719f61",
+    "source": "藿香正气胶囊",
+    "target": "暑湿感冒",
+    "type": "TREATS",
+    "description": "藿香正气胶囊主治暑湿感冒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_11ae03f4",
+    "source": "藿香正气胶囊",
+    "target": "中暑",
+    "type": "TREATS",
+    "description": "藿香正气胶囊主治中暑",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_f4835074",
+    "source": "藿香正气胶囊",
+    "target": "腹痛腹泻",
+    "type": "TREATS",
+    "description": "藿香正气胶囊主治腹痛腹泻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_a098319e",
+    "source": "藿香正气胶囊",
+    "target": "酒精过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "酒精过敏者禁用藿香正气胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_fc1b7007",
+    "source": "藿香正气胶囊",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用藿香正气胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_feaf12f6",
+    "source": "藿香正气胶囊",
+    "target": "婴幼儿",
+    "type": "CAUTION_FOR",
+    "description": "婴幼儿慎用藿香正气胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_4521e4e3",
+    "source": "藿香正气胶囊",
+    "target": "头孢",
+    "type": "INTERACTS_WITH",
+    "description": "含酒精版本的藿香正气胶囊不可与头孢同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_131921be",
+    "source": "藿香正气胶囊",
+    "target": "甲硝唑",
+    "type": "INTERACTS_WITH",
+    "description": "藿香正气胶囊禁止与甲硝唑同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_b2557cb9",
+    "source": "藿香正气胶囊",
+    "target": "生冷冰镇油腻食物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用藿香正气胶囊期间忌食生冷冰镇油腻食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_98307d80",
+    "source": "藿香正气胶囊",
+    "target": "恶心头晕",
+    "type": "RISK_FOR_DISEASE",
+    "description": "部分人服用藿香正气胶囊后可能出现恶心头晕",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_d3e0a536",
+    "source": "藿香正气胶囊",
+    "target": "2粒",
+    "type": "HAS_DOSAGE",
+    "description": "藿香正气胶囊一次服用2粒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_ba201f64",
+    "source": "藿香正气胶囊",
+    "target": "一日2次",
+    "type": "HAS_DOSAGE",
+    "description": "藿香正气胶囊每日服用2次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_7_0"
+    ]
+  },
+  {
+    "id": "rel_2dcf82be",
+    "source": "硝酸甘油",
+    "target": "硝酸甘油",
+    "type": "CONTAINS",
+    "description": "硝酸甘油片含有硝酸甘油成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_cfec63aa",
+    "source": "硝酸甘油",
+    "target": "心绞痛",
+    "type": "TREATS",
+    "description": "硝酸甘油用于心绞痛预防急救",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_0a9ac224",
+    "source": "硝酸甘油",
+    "target": "冠心病",
+    "type": "TREATS",
+    "description": "硝酸甘油用于冠心病心绞痛预防急救",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_4f5544a4",
+    "source": "硝酸甘油",
+    "target": "低血压",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "低血压患者禁用硝酸甘油",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_b13c88b7",
+    "source": "硝酸甘油",
+    "target": "青光眼",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "青光眼患者禁用硝酸甘油",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_c862543a",
+    "source": "硝酸甘油",
+    "target": "老年人",
+    "type": "CAUTION_FOR",
+    "description": "老年人常备硝酸甘油",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_8aeb5a0f",
+    "source": "硝酸甘油",
+    "target": "面部潮红",
+    "type": "RISK_FOR_DISEASE",
+    "description": "硝酸甘油常见副作用面部潮红",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_35e1b653",
+    "source": "硝酸甘油",
+    "target": "头晕",
+    "type": "RISK_FOR_DISEASE",
+    "description": "硝酸甘油常见副作用头晕",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_199611d1",
+    "source": "硝酸甘油",
+    "target": "酒",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_cb0ec407",
+    "source": "硝酸甘油",
+    "target": "降压药",
+    "type": "INTERACTS_WITH",
+    "description": "慎与降压药同用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_873ada02",
+    "source": "硝酸甘油",
+    "target": "0.5mg",
+    "type": "HAS_DOSAGE",
+    "description": "硝酸甘油片剂规格0.5mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_f0d301d5",
+    "source": "硝酸甘油",
+    "target": "舌下含服1片",
+    "type": "HAS_DOSAGE",
+    "description": "心绞痛发作时舌下含服1片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_8_0"
+    ]
+  },
+  {
+    "id": "rel_747d5dc6",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "护彤",
+    "type": "BELONGS_TO_CLASS",
+    "description": "小儿氨酚黄那敏颗粒商品名为护彤",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_6895437f",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "儿童感冒",
+    "type": "TREATS",
+    "description": "用于儿童感冒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_182a5b34",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "发热",
+    "type": "TREATS",
+    "description": "用于发热",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_a43db1ee",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "鼻塞",
+    "type": "TREATS",
+    "description": "用于鼻塞",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_583b360b",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "流涕",
+    "type": "TREATS",
+    "description": "用于流涕",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_d219c6d1",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "严重肝肾不全",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肝肾不全禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_ce2d35c8",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "婴幼儿",
+    "type": "CAUTION_FOR",
+    "description": "婴幼儿需严格控量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_dd1ac4de",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "甜饮料",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "少吃甜饮料",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_1b607fa2",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "生冷辅食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "少吃生冷辅食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_cf652898",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "益生菌",
+    "type": "INTERACTS_WITH",
+    "description": "可搭配益生菌调理",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_78beed96",
+    "source": "小儿氨酚黄那敏颗粒",
+    "target": "嗜睡",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见轻微嗜睡不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_9_0"
+    ]
+  },
+  {
+    "id": "rel_df06dfe2",
+    "source": "阿莫西林胶囊",
+    "target": "阿莫西林",
+    "type": "CONTAINS",
+    "description": "阿莫西林胶囊含有阿莫西林成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_88f958a8",
+    "source": "阿莫西林胶囊",
+    "target": "呼吸道感染",
+    "type": "TREATS",
+    "description": "用于治疗呼吸道感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_8d313eb4",
+    "source": "阿莫西林胶囊",
+    "target": "泌尿感染",
+    "type": "TREATS",
+    "description": "用于治疗泌尿感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_ac7e036f",
+    "source": "阿莫西林胶囊",
+    "target": "青霉素过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "青霉素过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_5ef2653f",
+    "source": "阿莫西林胶囊",
+    "target": "皮疹",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见皮疹不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_17e86688",
+    "source": "阿莫西林胶囊",
+    "target": "呕吐",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见呕吐不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_91ea05a9",
+    "source": "阿莫西林胶囊",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_d83ba7e9",
+    "source": "阿莫西林胶囊",
+    "target": "哺乳期",
+    "type": "CAUTION_FOR",
+    "description": "哺乳期慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_42728814",
+    "source": "阿莫西林胶囊",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药期间禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_2e996516",
+    "source": "阿莫西林胶囊",
+    "target": "益生菌",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "不与益生菌同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_271f8f92",
+    "source": "阿莫西林胶囊",
+    "target": "0.25g",
+    "type": "HAS_DOSAGE",
+    "description": "每粒胶囊剂量为0.25g",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_10_0"
+    ]
+  },
+  {
+    "id": "rel_53a9fba3",
+    "source": "头孢克肟分散片",
+    "target": "头孢克肟",
+    "type": "CONTAINS",
+    "description": "头孢克肟分散片含有头孢克肟成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_38307d5f",
+    "source": "头孢克肟分散片",
+    "target": "呼吸道感染",
+    "type": "TREATS",
+    "description": "头孢克肟分散片治疗呼吸道感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_313bbb35",
+    "source": "头孢克肟分散片",
+    "target": "肠道感染",
+    "type": "TREATS",
+    "description": "头孢克肟分散片治疗肠道感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_3066687b",
+    "source": "头孢克肟分散片",
+    "target": "头孢过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "头孢过敏者禁用头孢克肟分散片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_b6110160",
+    "source": "头孢克肟分散片",
+    "target": "肾功能不全",
+    "type": "CAUTION_FOR",
+    "description": "肾功能不全者需减量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_44f1a284",
+    "source": "头孢克肟分散片",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药及停药7天内禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_36a7b8c2",
+    "source": "头孢克肟分散片",
+    "target": "辛辣刺激食物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌辛辣刺激",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_21fb666b",
+    "source": "头孢克肟分散片",
+    "target": "活菌制剂",
+    "type": "INTERACTS_WITH",
+    "description": "不与活菌制剂联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_639796c8",
+    "source": "头孢克肟分散片",
+    "target": "腹泻",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见腹泻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_11_0"
+    ]
+  },
+  {
+    "id": "rel_9b4b4740",
+    "source": "氨溴索口服溶液",
+    "target": "氨溴索",
+    "type": "CONTAINS",
+    "description": "氨溴索口服溶液含有氨溴索成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_bbaa79fe",
+    "source": "氨溴索口服溶液",
+    "target": "痰多咳嗽",
+    "type": "TREATS",
+    "description": "用于治疗痰多咳嗽",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_c097fd1b",
+    "source": "氨溴索口服溶液",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_df425251",
+    "source": "氨溴索口服溶液",
+    "target": "胃部不适",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见胃部不适的不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_c8c7a28e",
+    "source": "氨溴索口服溶液",
+    "target": "孕妇前三月",
+    "type": "CAUTION_FOR",
+    "description": "孕妇前三月慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_77e4e352",
+    "source": "氨溴索口服溶液",
+    "target": "甜食油腻",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌甜食油腻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_b9f88765",
+    "source": "氨溴索口服溶液",
+    "target": "抗生素",
+    "type": "INTERACTS_WITH",
+    "description": "可与抗生素联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_48253cb8",
+    "source": "氨溴索口服溶液",
+    "target": "10ml",
+    "type": "HAS_DOSAGE",
+    "description": "一次口服10ml",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_a9410822",
+    "source": "氨溴索口服溶液",
+    "target": "一日3次",
+    "type": "HAS_DOSAGE",
+    "description": "一日3次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_12_0"
+    ]
+  },
+  {
+    "id": "rel_2ec75d5e",
+    "source": "左西替利嗪片",
+    "target": "左西替利嗪",
+    "type": "CONTAINS",
+    "description": "左西替利嗪片含有左西替利嗪成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_b2462980",
+    "source": "左西替利嗪片",
+    "target": "过敏性鼻炎",
+    "type": "TREATS",
+    "description": "左西替利嗪片用于缓解过敏性鼻炎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_bb38a326",
+    "source": "左西替利嗪片",
+    "target": "荨麻疹",
+    "type": "TREATS",
+    "description": "左西替利嗪片用于缓解荨麻疹",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_25c0ecbd",
+    "source": "左西替利嗪片",
+    "target": "过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "对左西替利嗪片过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_0e29b291",
+    "source": "左西替利嗪片",
+    "target": "肝肾不全者",
+    "type": "CAUTION_FOR",
+    "description": "肝肾不全者慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_fd8a852c",
+    "source": "左西替利嗪片",
+    "target": "海鲜",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用左西替利嗪片期间建议少吃海鲜发物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_8e1719a2",
+    "source": "左西替利嗪片",
+    "target": "镇静药",
+    "type": "INTERACTS_WITH",
+    "description": "左西替利嗪片不与镇静药同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_5b69164f",
+    "source": "左西替利嗪片",
+    "target": "嗜睡",
+    "type": "RISK_FOR_DISEASE",
+    "description": "基本无嗜睡副作用",
+    "weight": 0.1,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_475e569c",
+    "source": "左西替利嗪片",
+    "target": "口干",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见口干副作用",
+    "weight": 0.3,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_c26803e7",
+    "source": "左西替利嗪片",
+    "target": "5mg",
+    "type": "HAS_DOSAGE",
+    "description": "左西替利嗪片规格为5mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_13_0"
+    ]
+  },
+  {
+    "id": "rel_48872559",
+    "source": "多潘立酮片",
+    "target": "多潘立酮",
+    "type": "CONTAINS",
+    "description": "多潘立酮片含有多潘立酮成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_5f8d5068",
+    "source": "多潘立酮片",
+    "target": "胃胀",
+    "type": "TREATS",
+    "description": "多潘立酮片用于治疗胃胀",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_eac7d475",
+    "source": "多潘立酮片",
+    "target": "恶心",
+    "type": "TREATS",
+    "description": "多潘立酮片用于治疗恶心",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_3c6e0195",
+    "source": "多潘立酮片",
+    "target": "呕吐",
+    "type": "TREATS",
+    "description": "多潘立酮片用于治疗呕吐",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_978ccb3d",
+    "source": "多潘立酮片",
+    "target": "心动过速",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "心动过速患者禁用多潘立酮片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_c8a31c23",
+    "source": "多潘立酮片",
+    "target": "口干",
+    "type": "RISK_FOR_DISEASE",
+    "description": "多潘立酮片可能引起口干",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_35557a0a",
+    "source": "多潘立酮片",
+    "target": "头痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "多潘立酮片可能引起头痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_669d1203",
+    "source": "多潘立酮片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用多潘立酮片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_98ae5aa8",
+    "source": "多潘立酮片",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用多潘立酮片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_afe50b5c",
+    "source": "多潘立酮片",
+    "target": "暴饮暴食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "多潘立酮片使用期间忌暴饮暴食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_859c795a",
+    "source": "多潘立酮片",
+    "target": "抗胆碱药",
+    "type": "INTERACTS_WITH",
+    "description": "多潘立酮片不与抗胆碱药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_e46b0458",
+    "source": "多潘立酮片",
+    "target": "10mg",
+    "type": "HAS_DOSAGE",
+    "description": "多潘立酮片规格为10mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_14_0"
+    ]
+  },
+  {
+    "id": "rel_1e1dc100",
+    "source": "葡萄糖酸钙口服液",
+    "target": "葡萄糖酸钙",
+    "type": "CONTAINS",
+    "description": "葡萄糖酸钙口服液含有葡萄糖酸钙成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_a9b94b31",
+    "source": "葡萄糖酸钙口服液",
+    "target": "缺钙抽搐",
+    "type": "TREATS",
+    "description": "葡萄糖酸钙口服液用于治疗缺钙抽搐",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_dfa9da1c",
+    "source": "葡萄糖酸钙口服液",
+    "target": "过敏",
+    "type": "TREATS",
+    "description": "葡萄糖酸钙口服液用于治疗过敏",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_83a7444b",
+    "source": "葡萄糖酸钙口服液",
+    "target": "高钙血症",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "高钙血症患者禁用葡萄糖酸钙口服液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_e8df21d6",
+    "source": "葡萄糖酸钙口服液",
+    "target": "便秘",
+    "type": "RISK_FOR_DISEASE",
+    "description": "葡萄糖酸钙口服液偶见便秘不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_be61517b",
+    "source": "葡萄糖酸钙口服液",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童可使用葡萄糖酸钙口服液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_01d36547",
+    "source": "葡萄糖酸钙口服液",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇可使用葡萄糖酸钙口服液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_90808496",
+    "source": "葡萄糖酸钙口服液",
+    "target": "浓茶",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用葡萄糖酸钙口服液时应少喝浓茶",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_0ba1431e",
+    "source": "葡萄糖酸钙口服液",
+    "target": "咖啡",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用葡萄糖酸钙口服液时应少喝咖啡",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_352fe151",
+    "source": "葡萄糖酸钙口服液",
+    "target": "维生素D",
+    "type": "INTERACTS_WITH",
+    "description": "葡萄糖酸钙口服液可与维生素D联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_e7822ca8",
+    "source": "葡萄糖酸钙口服液",
+    "target": "饭后服用",
+    "type": "HAS_DOSAGE",
+    "description": "建议饭后服用促进吸收",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_15_0"
+    ]
+  },
+  {
+    "id": "rel_3283db7b",
+    "source": "利巴韦林颗粒",
+    "target": "利巴韦林",
+    "type": "CONTAINS",
+    "description": "利巴韦林颗粒含有成分利巴韦林",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_f0f9a053",
+    "source": "利巴韦林颗粒",
+    "target": "病毒感冒",
+    "type": "TREATS",
+    "description": "利巴韦林颗粒用于治疗病毒感冒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_caa7499a",
+    "source": "利巴韦林颗粒",
+    "target": "疱疹",
+    "type": "TREATS",
+    "description": "利巴韦林颗粒用于治疗疱疹",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_303a92e1",
+    "source": "利巴韦林颗粒",
+    "target": "孕妇",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "孕妇禁用利巴韦林颗粒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_1eb7d758",
+    "source": "利巴韦林颗粒",
+    "target": "哺乳期儿童",
+    "type": "CAUTION_FOR",
+    "description": "哺乳期儿童慎用利巴韦林颗粒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_8c5e473c",
+    "source": "利巴韦林颗粒",
+    "target": "贫血",
+    "type": "RISK_FOR_DISEASE",
+    "description": "利巴韦林颗粒可能引起贫血",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_0bf86163",
+    "source": "利巴韦林颗粒",
+    "target": "乏力",
+    "type": "RISK_FOR_DISEASE",
+    "description": "利巴韦林颗粒可能引起乏力",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_67127531",
+    "source": "利巴韦林颗粒",
+    "target": "生冷刺激",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用利巴韦林颗粒期间忌生冷刺激食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_f68d341f",
+    "source": "利巴韦林颗粒",
+    "target": "抗病毒药",
+    "type": "INTERACTS_WITH",
+    "description": "利巴韦林颗粒不宜与抗病毒药叠加使用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_a55fdcff",
+    "source": "利巴韦林颗粒",
+    "target": "50mg",
+    "type": "HAS_DOSAGE",
+    "description": "利巴韦林颗粒规格为50mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_05bbe2f4",
+    "source": "利巴韦林颗粒",
+    "target": "一次1袋一日3次",
+    "type": "HAS_DOSAGE",
+    "description": "利巴韦林颗粒用法用量为一次1袋一日3次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_16_0"
+    ]
+  },
+  {
+    "id": "rel_b3b4a9ca",
+    "source": "甲硝唑",
+    "target": "甲硝唑",
+    "type": "CONTAINS",
+    "description": "甲硝唑片含有甲硝唑成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_080978fd",
+    "source": "甲硝唑",
+    "target": "口腔感染",
+    "type": "TREATS",
+    "description": "甲硝唑治疗口腔感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_a08d3b21",
+    "source": "甲硝唑",
+    "target": "滴虫",
+    "type": "TREATS",
+    "description": "甲硝唑治疗滴虫",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_3fea009b",
+    "source": "甲硝唑",
+    "target": "酒精过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "酒精过敏者禁用甲硝唑",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_97e66328",
+    "source": "甲硝唑",
+    "target": "孕妇",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "孕妇禁用甲硝唑",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_12ec0d76",
+    "source": "甲硝唑",
+    "target": "哺乳期",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "哺乳期禁用甲硝唑",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_012a0955",
+    "source": "甲硝唑",
+    "target": "头孢",
+    "type": "INTERACTS_WITH",
+    "description": "不与头孢叠加",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_b5290790",
+    "source": "甲硝唑",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药禁酒，忌辛辣饮酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_419075b5",
+    "source": "甲硝唑",
+    "target": "恶心",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见恶心副作用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_bcc6ea42",
+    "source": "甲硝唑",
+    "target": "0.2g",
+    "type": "HAS_DOSAGE",
+    "description": "片剂0.2g",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_9a530586",
+    "source": "甲硝唑",
+    "target": "一次1片一日3次",
+    "type": "HAS_DOSAGE",
+    "description": "口服一次1片一日3次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_17_0"
+    ]
+  },
+  {
+    "id": "rel_e362ac5d",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "对乙酰氨基酚",
+    "type": "CONTAINS",
+    "description": "对乙酰氨基酚混悬液含有对乙酰氨基酚成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_f188719c",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "儿童",
+    "type": "TREATS",
+    "description": "用于儿童退烧止痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_6c178f6e",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "严重肝不全",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肝不全禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_65254d5e",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "皮疹",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见皮疹不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_5945047c",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "婴幼儿",
+    "type": "CAUTION_FOR",
+    "description": "婴幼儿慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_763cc123",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服药期间禁酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_5705a71a",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "复方感冒药",
+    "type": "INTERACTS_WITH",
+    "description": "不可与复方感冒药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_c707db20",
+    "source": "对乙酰氨基酚混悬液",
+    "target": "体温超38.5℃",
+    "type": "HAS_DOSAGE",
+    "description": "建议体温超38.5℃服用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_18_0"
+    ]
+  },
+  {
+    "id": "rel_5ba11d3f",
+    "source": "布洛芬混悬液",
+    "target": "布洛芬",
+    "type": "CONTAINS",
+    "description": "布洛芬混悬液含有布洛芬成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_8446b514",
+    "source": "布洛芬混悬液",
+    "target": "发热",
+    "type": "TREATS",
+    "description": "用于儿童发热",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_512d9f58",
+    "source": "布洛芬混悬液",
+    "target": "疼痛",
+    "type": "TREATS",
+    "description": "用于止痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_8d102e92",
+    "source": "布洛芬混悬液",
+    "target": "胃溃疡",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "胃溃疡患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_342fbddd",
+    "source": "布洛芬混悬液",
+    "target": "肠胃不适",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见肠胃不适不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_766daed2",
+    "source": "布洛芬混悬液",
+    "target": "6个月以下婴儿",
+    "type": "CAUTION_FOR",
+    "description": "6个月以下婴儿慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_628b30b1",
+    "source": "布洛芬混悬液",
+    "target": "辛辣刺激食物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌辛辣刺激食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_2ee53334",
+    "source": "布洛芬混悬液",
+    "target": "阿司匹林",
+    "type": "INTERACTS_WITH",
+    "description": "不与阿司匹林联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_69daf7e9",
+    "source": "布洛芬混悬液",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "用于儿童，按体重给药",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_19_0"
+    ]
+  },
+  {
+    "id": "rel_6315b398",
+    "source": "马来酸氯苯那敏片",
+    "target": "马来酸氯苯那敏",
+    "type": "CONTAINS",
+    "description": "马来酸氯苯那敏片含有马来酸氯苯那敏",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_fd917d04",
+    "source": "马来酸氯苯那敏片",
+    "target": "癫痫",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "癫痫患者禁用马来酸氯苯那敏片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_eac93f2a",
+    "source": "马来酸氯苯那敏片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用马来酸氯苯那敏片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_0449a052",
+    "source": "马来酸氯苯那敏片",
+    "target": "老年",
+    "type": "CAUTION_FOR",
+    "description": "老年慎用马来酸氯苯那敏片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_27e2a19d",
+    "source": "马来酸氯苯那敏片",
+    "target": "嗜睡",
+    "type": "RISK_FOR_DISEASE",
+    "description": "马来酸氯苯那敏片易引起嗜睡犯困",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_f0e2d9e3",
+    "source": "马来酸氯苯那敏片",
+    "target": "口干",
+    "type": "RISK_FOR_DISEASE",
+    "description": "马来酸氯苯那敏片偶见口干",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_5ef81bec",
+    "source": "马来酸氯苯那敏片",
+    "target": "高空作业",
+    "type": "RISK_FOR_DISEASE",
+    "description": "服用马来酸氯苯那敏片后忌高空作业",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_bbb040ac",
+    "source": "马来酸氯苯那敏片",
+    "target": "驾车",
+    "type": "RISK_FOR_DISEASE",
+    "description": "服用马来酸氯苯那敏片后忌驾车",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_20964044",
+    "source": "马来酸氯苯那敏片",
+    "target": "镇静药",
+    "type": "INTERACTS_WITH",
+    "description": "不与镇静药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_464c58b7",
+    "source": "马来酸氯苯那敏片",
+    "target": "4mg",
+    "type": "HAS_DOSAGE",
+    "description": "马来酸氯苯那敏片每片4mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_20_0"
+    ]
+  },
+  {
+    "id": "rel_1f99e59f",
+    "source": "枸橼酸莫沙必利片",
+    "target": "莫沙必利",
+    "type": "CONTAINS",
+    "description": "枸橼酸莫沙必利片含有莫沙必利成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_77e2e87e",
+    "source": "枸橼酸莫沙必利片",
+    "target": "胃胀",
+    "type": "TREATS",
+    "description": "改善胃胀症状",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_627c93b0",
+    "source": "枸橼酸莫沙必利片",
+    "target": "嗳气",
+    "type": "TREATS",
+    "description": "改善嗳气症状",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_4d537627",
+    "source": "枸橼酸莫沙必利片",
+    "target": "胃肠道出血",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "胃肠道出血患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_9f98bb45",
+    "source": "枸橼酸莫沙必利片",
+    "target": "腹泻",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见腹泻不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_7f671a32",
+    "source": "枸橼酸莫沙必利片",
+    "target": "腹痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见腹痛不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_05b47e81",
+    "source": "枸橼酸莫沙必利片",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_115403bc",
+    "source": "枸橼酸莫沙必利片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_6f207f04",
+    "source": "枸橼酸莫沙必利片",
+    "target": "抗胆碱药",
+    "type": "INTERACTS_WITH",
+    "description": "不与抗胆碱药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_3a9bb8c5",
+    "source": "枸橼酸莫沙必利片",
+    "target": "5mg",
+    "type": "HAS_DOSAGE",
+    "description": "每片剂量5mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_2c4ab26d",
+    "source": "枸橼酸莫沙必利片",
+    "target": "一次1片一日3次",
+    "type": "HAS_DOSAGE",
+    "description": "口服一次1片一日3次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_21_0"
+    ]
+  },
+  {
+    "id": "rel_05f25184",
+    "source": "兰索拉唑肠溶片",
+    "target": "兰索拉唑",
+    "type": "CONTAINS",
+    "description": "兰索拉唑肠溶片含有兰索拉唑成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_1fd2dea9",
+    "source": "兰索拉唑肠溶片",
+    "target": "胃溃疡",
+    "type": "TREATS",
+    "description": "兰索拉唑肠溶片用于治疗胃溃疡",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_857547d7",
+    "source": "兰索拉唑肠溶片",
+    "target": "反流性食管炎",
+    "type": "TREATS",
+    "description": "兰索拉唑肠溶片用于治疗反流性食管炎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_62a51df4",
+    "source": "兰索拉唑肠溶片",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_4639f679",
+    "source": "兰索拉唑肠溶片",
+    "target": "头痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见头痛不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_41fe665b",
+    "source": "兰索拉唑肠溶片",
+    "target": "便秘",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见便秘不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_55c33b37",
+    "source": "兰索拉唑肠溶片",
+    "target": "老人",
+    "type": "CAUTION_FOR",
+    "description": "老人肝病需减量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_bfaf92cd",
+    "source": "兰索拉唑肠溶片",
+    "target": "咖啡",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌与咖啡同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_55e78857",
+    "source": "兰索拉唑肠溶片",
+    "target": "浓茶",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌与浓茶同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_4f3c1aca",
+    "source": "兰索拉唑肠溶片",
+    "target": "氯吡格雷",
+    "type": "INTERACTS_WITH",
+    "description": "不与氯吡格雷联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_b3357c79",
+    "source": "兰索拉唑肠溶片",
+    "target": "15mg",
+    "type": "HAS_DOSAGE",
+    "description": "肠溶片15mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_22_0"
+    ]
+  },
+  {
+    "id": "rel_eae3e298",
+    "source": "缬沙坦胶囊",
+    "target": "缬沙坦",
+    "type": "CONTAINS",
+    "description": "缬沙坦胶囊含有缬沙坦成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_52997167",
+    "source": "缬沙坦胶囊",
+    "target": "高血压",
+    "type": "TREATS",
+    "description": "用于治疗高血压",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_fb2cff0d",
+    "source": "缬沙坦胶囊",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_5f17feaf",
+    "source": "缬沙坦胶囊",
+    "target": "孕妇",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "孕妇禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_da7eb5d9",
+    "source": "缬沙坦胶囊",
+    "target": "哺乳期",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "哺乳期禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_1da04403",
+    "source": "缬沙坦胶囊",
+    "target": "低盐饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "建议低盐饮食，可能与高盐饮食冲突",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_a706fa06",
+    "source": "缬沙坦胶囊",
+    "target": "保钾药",
+    "type": "INTERACTS_WITH",
+    "description": "不与保钾药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_59284f54",
+    "source": "缬沙坦胶囊",
+    "target": "80mg",
+    "type": "HAS_DOSAGE",
+    "description": "胶囊规格80mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_24c173c2",
+    "source": "缬沙坦胶囊",
+    "target": "头晕",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见头晕不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_84e7e671",
+    "source": "缬沙坦胶囊",
+    "target": "乏力",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见乏力不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_23_0"
+    ]
+  },
+  {
+    "id": "rel_4bd70d42",
+    "source": "二甲双胍片",
+    "target": "二甲双胍",
+    "type": "CONTAINS",
+    "description": "二甲双胍片含有成分二甲双胍",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_0b38fae1",
+    "source": "格华止",
+    "target": "二甲双胍片",
+    "type": "CONTAINS",
+    "description": "格华止是二甲双胍片的商品名",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_3dd726cb",
+    "source": "二甲双胍",
+    "target": "2型糖尿病",
+    "type": "TREATS",
+    "description": "二甲双胍用于治疗2型糖尿病",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_6b4786aa",
+    "source": "二甲双胍",
+    "target": "肾病",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肾病患者禁用二甲双胍",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_921c7dfc",
+    "source": "二甲双胍",
+    "target": "心衰",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "心衰患者禁用二甲双胍",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_0c1ea56a",
+    "source": "二甲双胍",
+    "target": "腹胀",
+    "type": "RISK_FOR_DISEASE",
+    "description": "二甲双胍可能引起腹胀",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_dfeefc2f",
+    "source": "二甲双胍",
+    "target": "腹泻",
+    "type": "RISK_FOR_DISEASE",
+    "description": "二甲双胍可能引起腹泻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_52e643d8",
+    "source": "二甲双胍",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用二甲双胍",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_448c1475",
+    "source": "二甲双胍",
+    "target": "老年",
+    "type": "CAUTION_FOR",
+    "description": "老年慎用二甲双胍",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_79d9ad8d",
+    "source": "二甲双胍",
+    "target": "低糖饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用二甲双胍期间建议低糖饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_ab11a128",
+    "source": "二甲双胍",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用二甲双胍期间不应与酒精同服",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_f1db926e",
+    "source": "二甲双胍片",
+    "target": "0.5g",
+    "type": "HAS_DOSAGE",
+    "description": "二甲双胍片规格为0.5g",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_c5c588c5",
+    "source": "二甲双胍片",
+    "target": "一次1片一日2次",
+    "type": "HAS_DOSAGE",
+    "description": "二甲双胍片用法用量为一次1片一日2次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_24_0"
+    ]
+  },
+  {
+    "id": "rel_d065993e",
+    "source": "辛伐他汀片",
+    "target": "辛伐他汀",
+    "type": "CONTAINS",
+    "description": "辛伐他汀片含有辛伐他汀成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_c283ac1a",
+    "source": "辛伐他汀片",
+    "target": "高血脂",
+    "type": "TREATS",
+    "description": "辛伐他汀片用于治疗高血脂",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_093f68d3",
+    "source": "辛伐他汀片",
+    "target": "冠心病",
+    "type": "TREATS",
+    "description": "辛伐他汀片用于治疗冠心病",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_55639e93",
+    "source": "辛伐他汀片",
+    "target": "肝损",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肝损禁用辛伐他汀片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_d89077fd",
+    "source": "辛伐他汀片",
+    "target": "肌肉酸痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见肌肉酸痛不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_3b6e1ea6",
+    "source": "辛伐他汀片",
+    "target": "孕妇",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "孕妇禁用辛伐他汀片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_c8f81890",
+    "source": "辛伐他汀片",
+    "target": "肝病",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肝病禁用辛伐他汀片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_02de2127",
+    "source": "辛伐他汀片",
+    "target": "低脂饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "建议低脂饮食，可能与高脂饮食冲突",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_3a7a2d13",
+    "source": "辛伐他汀片",
+    "target": "贝特类",
+    "type": "INTERACTS_WITH",
+    "description": "不与贝特类联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_3822362e",
+    "source": "辛伐他汀片",
+    "target": "20mg",
+    "type": "HAS_DOSAGE",
+    "description": "片剂规格20mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_25_0"
+    ]
+  },
+  {
+    "id": "rel_dac8195d",
+    "source": "硝苯地平缓释片",
+    "target": "硝苯地平",
+    "type": "CONTAINS",
+    "description": "硝苯地平缓释片含有硝苯地平成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_110c5baa",
+    "source": "硝苯地平缓释片",
+    "target": "高血压",
+    "type": "TREATS",
+    "description": "硝苯地平缓释片用于治疗高血压",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_74ca33a2",
+    "source": "硝苯地平缓释片",
+    "target": "心绞痛",
+    "type": "TREATS",
+    "description": "硝苯地平缓释片用于治疗心绞痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_393236e8",
+    "source": "硝苯地平缓释片",
+    "target": "心源性休克",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "心源性休克患者禁用硝苯地平缓释片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_b672cdf3",
+    "source": "硝苯地平缓释片",
+    "target": "面部潮红",
+    "type": "RISK_FOR_DISEASE",
+    "description": "硝苯地平缓释片可能引起面部潮红",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_da67c20c",
+    "source": "硝苯地平缓释片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用硝苯地平缓释片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_bafbf79b",
+    "source": "硝苯地平缓释片",
+    "target": "低盐饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用硝苯地平缓释片期间建议低盐饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_ac8aa11b",
+    "source": "硝苯地平缓释片",
+    "target": "降压药",
+    "type": "INTERACTS_WITH",
+    "description": "硝苯地平缓释片与降压药有叠加作用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_ea8b56ae",
+    "source": "硝苯地平缓释片",
+    "target": "30mg",
+    "type": "HAS_DOSAGE",
+    "description": "硝苯地平缓释片的剂量为30mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_26_0"
+    ]
+  },
+  {
+    "id": "rel_23c17bbd",
+    "source": "美托洛尔片",
+    "target": "美托洛尔",
+    "type": "CONTAINS",
+    "description": "美托洛尔片含有成分美托洛尔",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_0f40058a",
+    "source": "美托洛尔片",
+    "target": "高血压",
+    "type": "TREATS",
+    "description": "美托洛尔片用于治疗高血压",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_d708a643",
+    "source": "美托洛尔片",
+    "target": "心绞痛",
+    "type": "TREATS",
+    "description": "美托洛尔片用于治疗心绞痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_e044a92c",
+    "source": "美托洛尔片",
+    "target": "哮喘",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "哮喘患者禁用美托洛尔片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_93859bc4",
+    "source": "美托洛尔片",
+    "target": "心动过缓",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "心动过缓患者禁用美托洛尔片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_975887e2",
+    "source": "美托洛尔片",
+    "target": "乏力",
+    "type": "RISK_FOR_DISEASE",
+    "description": "美托洛尔片可能引起乏力",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_1cdb209f",
+    "source": "美托洛尔片",
+    "target": "头晕",
+    "type": "RISK_FOR_DISEASE",
+    "description": "美托洛尔片可能引起头晕",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_2ceb43fb",
+    "source": "美托洛尔片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用美托洛尔片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_759795cb",
+    "source": "美托洛尔片",
+    "target": "低盐饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用美托洛尔片建议低盐饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_8e44699a",
+    "source": "美托洛尔片",
+    "target": "维拉帕米",
+    "type": "INTERACTS_WITH",
+    "description": "美托洛尔片不与维拉帕米联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_5e961879",
+    "source": "美托洛尔片",
+    "target": "25mg",
+    "type": "HAS_DOSAGE",
+    "description": "美托洛尔片规格为25mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_27_0"
+    ]
+  },
+  {
+    "id": "rel_3f571420",
+    "source": "格列齐特片",
+    "target": "格列齐特",
+    "type": "CONTAINS",
+    "description": "格列齐特片含有格列齐特成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_985239d6",
+    "source": "格列齐特片",
+    "target": "2型糖尿病",
+    "type": "TREATS",
+    "description": "格列齐特片用于治疗2型糖尿病",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_7f436c7a",
+    "source": "格列齐特片",
+    "target": "酮症酸中毒",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "酮症酸中毒患者禁用格列齐特片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_6a84bf7a",
+    "source": "格列齐特片",
+    "target": "低血糖",
+    "type": "RISK_FOR_DISEASE",
+    "description": "格列齐特片可能引起低血糖",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_29d044ed",
+    "source": "格列齐特片",
+    "target": "心慌",
+    "type": "RISK_FOR_DISEASE",
+    "description": "格列齐特片可能引起心慌",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_8722e6a7",
+    "source": "格列齐特片",
+    "target": "孕妇",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "孕妇禁用格列齐特片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_e3a032d5",
+    "source": "格列齐特片",
+    "target": "肝不全",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肝不全患者禁用格列齐特片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_0a9df3ce",
+    "source": "格列齐特片",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "格列齐特片不与酒精联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_65e17d81",
+    "source": "格列齐特片",
+    "target": "80mg",
+    "type": "HAS_DOSAGE",
+    "description": "格列齐特片每片剂量80mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_28_0"
+    ]
+  },
+  {
+    "id": "rel_8d7097d1",
+    "source": "阿司匹林",
+    "target": "阿司匹林",
+    "type": "CONTAINS",
+    "description": "阿司匹林肠溶片含有阿司匹林成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_b7a0e8bf",
+    "source": "阿司匹林",
+    "target": "100mg",
+    "type": "HAS_DOSAGE",
+    "description": "阿司匹林肠溶片规格为100mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_23ca2987",
+    "source": "阿司匹林",
+    "target": "血栓",
+    "type": "TREATS",
+    "description": "阿司匹林用于预防血栓",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_e2986bab",
+    "source": "阿司匹林",
+    "target": "心梗",
+    "type": "TREATS",
+    "description": "阿司匹林用于预防心梗",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_644205d4",
+    "source": "阿司匹林",
+    "target": "胃溃疡",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "胃溃疡出血禁用阿司匹林",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_778f5fb5",
+    "source": "阿司匹林",
+    "target": "肠胃不适",
+    "type": "RISK_FOR_DISEASE",
+    "description": "服用阿司匹林偶见肠胃不适",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_69e9001a",
+    "source": "阿司匹林",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用阿司匹林",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_32e80c08",
+    "source": "阿司匹林",
+    "target": "哮喘",
+    "type": "CAUTION_FOR",
+    "description": "哮喘患者慎用阿司匹林",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_9161bc25",
+    "source": "阿司匹林",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌酒精刺激",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_300840bb",
+    "source": "阿司匹林",
+    "target": "布洛芬",
+    "type": "INTERACTS_WITH",
+    "description": "不与布洛芬联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_29_0"
+    ]
+  },
+  {
+    "id": "rel_02eef68d",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "双氯芬酸钠",
+    "type": "CONTAINS",
+    "description": "双氯芬酸钠缓释胶囊含有双氯芬酸钠成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_e8920504",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "关节痛",
+    "type": "TREATS",
+    "description": "双氯芬酸钠缓释胶囊用于治疗关节痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_f7aa0a7b",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "牙痛",
+    "type": "TREATS",
+    "description": "双氯芬酸钠缓释胶囊用于治疗牙痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_a29c955c",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "严重肝肾功能不全",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "严重肝肾功能不全患者禁用双氯芬酸钠缓释胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_d0ef47b4",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "胃痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "双氯芬酸钠缓释胶囊可能引起胃痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_1284f1e5",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "头痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "双氯芬酸钠缓释胶囊可能引起头痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_f489e677",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用双氯芬酸钠缓释胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_0a53e7c0",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用双氯芬酸钠缓释胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_638b46e3",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "辛辣食物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用双氯芬酸钠缓释胶囊期间忌辛辣食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_3be996f4",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "饮酒",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用双氯芬酸钠缓释胶囊期间忌饮酒",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_83871eef",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "阿司匹林",
+    "type": "INTERACTS_WITH",
+    "description": "双氯芬酸钠缓释胶囊不宜与阿司匹林联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_65783b93",
+    "source": "双氯芬酸钠缓释胶囊",
+    "target": "饭后服用",
+    "type": "HAS_DOSAGE",
+    "description": "双氯芬酸钠缓释胶囊建议饭后服用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_30_0"
+    ]
+  },
+  {
+    "id": "rel_d7a5581c",
+    "source": "萘普生片",
+    "target": "萘普生",
+    "type": "CONTAINS",
+    "description": "萘普生片含有萘普生成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_a2e357a2",
+    "source": "萘普生片",
+    "target": "疼痛",
+    "type": "TREATS",
+    "description": "萘普生片用于缓解疼痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_f70a7630",
+    "source": "萘普生片",
+    "target": "发热",
+    "type": "TREATS",
+    "description": "萘普生片用于缓解发热",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_6b1695d5",
+    "source": "萘普生片",
+    "target": "胃溃疡",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "胃溃疡患者禁用萘普生片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_dcdfeba2",
+    "source": "萘普生片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用萘普生片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_d2a06158",
+    "source": "萘普生片",
+    "target": "哺乳期",
+    "type": "CAUTION_FOR",
+    "description": "哺乳期慎用萘普生片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_2193971c",
+    "source": "萘普生片",
+    "target": "生冷刺激",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用萘普生片期间忌生冷刺激食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_d662a6e9",
+    "source": "萘普生片",
+    "target": "其他退烧药",
+    "type": "INTERACTS_WITH",
+    "description": "萘普生片不与其他退烧药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_fa2673e1",
+    "source": "萘普生片",
+    "target": "0.1g",
+    "type": "HAS_DOSAGE",
+    "description": "萘普生片每片剂量0.1g",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_51f2c742",
+    "source": "萘普生片",
+    "target": "一次1片一日2次",
+    "type": "HAS_DOSAGE",
+    "description": "萘普生片口服用法用量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_31_0"
+    ]
+  },
+  {
+    "id": "rel_85ed5acc",
+    "source": "胰酶肠溶胶囊",
+    "target": "胰酶",
+    "type": "CONTAINS",
+    "description": "胰酶肠溶胶囊含有胰酶成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_dd2d2281",
+    "source": "胰酶肠溶胶囊",
+    "target": "消化不良",
+    "type": "TREATS",
+    "description": "胰酶肠溶胶囊用于治疗消化不良",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_8708283e",
+    "source": "胰酶肠溶胶囊",
+    "target": "食欲不振",
+    "type": "TREATS",
+    "description": "胰酶肠溶胶囊用于治疗食欲不振",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_b9250b4b",
+    "source": "胰酶肠溶胶囊",
+    "target": "急性胰腺炎",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "急性胰腺炎患者禁用胰酶肠溶胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_ff1fc1ca",
+    "source": "胰酶肠溶胶囊",
+    "target": "便秘",
+    "type": "RISK_FOR_DISEASE",
+    "description": "胰酶肠溶胶囊可能引起便秘",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_74c500c3",
+    "source": "胰酶肠溶胶囊",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用胰酶肠溶胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_9db7523d",
+    "source": "胰酶肠溶胶囊",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用胰酶肠溶胶囊",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_58b369e4",
+    "source": "胰酶肠溶胶囊",
+    "target": "酸性药物",
+    "type": "INTERACTS_WITH",
+    "description": "胰酶肠溶胶囊不宜与酸性药物联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_32_0"
+    ]
+  },
+  {
+    "id": "rel_2b1b0660",
+    "source": "乳果糖口服溶液",
+    "target": "乳果糖",
+    "type": "CONTAINS",
+    "description": "乳果糖口服溶液含有乳果糖成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_7d7ec0bf",
+    "source": "乳果糖口服溶液",
+    "target": "慢性便秘",
+    "type": "TREATS",
+    "description": "乳果糖口服溶液用于治疗慢性便秘",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_379c90bf",
+    "source": "乳果糖口服溶液",
+    "target": "肠梗阻",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肠梗阻患者禁用乳果糖口服溶液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_0e294cb4",
+    "source": "乳果糖口服溶液",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇可用，但需谨慎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_8f884170",
+    "source": "乳果糖口服溶液",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童可用，但需谨慎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_1b1b7439",
+    "source": "乳果糖口服溶液",
+    "target": "腹胀",
+    "type": "RISK_FOR_DISEASE",
+    "description": "可能引起腹胀",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_919891b8",
+    "source": "乳果糖口服溶液",
+    "target": "腹泻",
+    "type": "RISK_FOR_DISEASE",
+    "description": "可能引起腹泻",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_d90fc6bf",
+    "source": "乳果糖口服溶液",
+    "target": "辛辣刺激",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "应少食辛辣刺激食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_3cc86d18",
+    "source": "乳果糖口服溶液",
+    "target": "益生菌",
+    "type": "INTERACTS_WITH",
+    "description": "可与益生菌联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_13829758",
+    "source": "乳果糖口服溶液",
+    "target": "10ml",
+    "type": "HAS_DOSAGE",
+    "description": "每次口服10ml",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_33_0"
+    ]
+  },
+  {
+    "id": "rel_3ab92995",
+    "source": "匹维溴铵片",
+    "target": "匹维溴铵",
+    "type": "CONTAINS",
+    "description": "匹维溴铵片含有匹维溴铵成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_6b4965cb",
+    "source": "匹维溴铵片",
+    "target": "肠易激综合征",
+    "type": "TREATS",
+    "description": "用于肠易激腹痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_544cd729",
+    "source": "匹维溴铵片",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_95484b5e",
+    "source": "匹维溴铵片",
+    "target": "口干",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见口干不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_1c28e14c",
+    "source": "匹维溴铵片",
+    "target": "恶心",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见恶心不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_b42e82f0",
+    "source": "匹维溴铵片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_fbd2c9ba",
+    "source": "匹维溴铵片",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_650f3e6c",
+    "source": "匹维溴铵片",
+    "target": "抗胆碱药",
+    "type": "INTERACTS_WITH",
+    "description": "不与抗胆碱药联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_e26be8fa",
+    "source": "匹维溴铵片",
+    "target": "50mg",
+    "type": "HAS_DOSAGE",
+    "description": "片剂50mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_34_0"
+    ]
+  },
+  {
+    "id": "rel_c3e24bfc",
+    "source": "呋塞米片",
+    "target": "呋塞米",
+    "type": "CONTAINS",
+    "description": "呋塞米片含有呋塞米成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_80f4c95b",
+    "source": "呋塞米片",
+    "target": "水肿",
+    "type": "TREATS",
+    "description": "用于水肿利尿",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_5780df1f",
+    "source": "呋塞米片",
+    "target": "低钾血症",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "低钾血症禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_3d109009",
+    "source": "呋塞米片",
+    "target": "电解质紊乱",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见电解质紊乱",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_416d8c0c",
+    "source": "呋塞米片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_e9530a6e",
+    "source": "呋塞米片",
+    "target": "氨基糖苷类",
+    "type": "INTERACTS_WITH",
+    "description": "不与氨基糖苷类联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_bbda5e31",
+    "source": "呋塞米片",
+    "target": "20mg",
+    "type": "HAS_DOSAGE",
+    "description": "片剂20mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_35_0"
+    ]
+  },
+  {
+    "id": "rel_22c93e8d",
+    "source": "螺内酯片",
+    "target": "螺内酯",
+    "type": "CONTAINS",
+    "description": "螺内酯片含有螺内酯成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ]
+  },
+  {
+    "id": "rel_1c32a3ca",
+    "source": "螺内酯片",
+    "target": "高钾血症",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "高钾血症患者禁用螺内酯片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ]
+  },
+  {
+    "id": "rel_f70f5d4d",
+    "source": "螺内酯片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用螺内酯片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ]
+  },
+  {
+    "id": "rel_0c7b95f7",
+    "source": "螺内酯片",
+    "target": "高钾食物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用螺内酯片期间忌高钾食物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ]
+  },
+  {
+    "id": "rel_ca9a369a",
+    "source": "螺内酯片",
+    "target": "缬沙坦",
+    "type": "INTERACTS_WITH",
+    "description": "螺内酯片不与缬沙坦联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ]
+  },
+  {
+    "id": "rel_c8e45ab9",
+    "source": "螺内酯片",
+    "target": "20mg",
+    "type": "HAS_DOSAGE",
+    "description": "螺内酯片每片剂量20mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_36_0"
+    ]
+  },
+  {
+    "id": "rel_4b3f0e14",
+    "source": "波立维",
+    "target": "氯吡格雷",
+    "type": "CONTAINS",
+    "description": "波立维商品名含有氯吡格雷成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_11cc3e4e",
+    "source": "氯吡格雷",
+    "target": "氯吡格雷",
+    "type": "CONTAINS",
+    "description": "氯吡格雷片含有氯吡格雷成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_4ea5f8e3",
+    "source": "氯吡格雷",
+    "target": "75mg",
+    "type": "HAS_DOSAGE",
+    "description": "每片剂量75mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_f7f89a89",
+    "source": "氯吡格雷",
+    "target": "口服一日1次一次1片",
+    "type": "HAS_DOSAGE",
+    "description": "用法用量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_06683731",
+    "source": "氯吡格雷",
+    "target": "血栓",
+    "type": "TREATS",
+    "description": "预防血栓",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_e3e706cb",
+    "source": "氯吡格雷",
+    "target": "心梗",
+    "type": "TREATS",
+    "description": "预防心肌梗死",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_4c4a8e5f",
+    "source": "氯吡格雷",
+    "target": "出血倾向",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "出血倾向患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_1a9ef9e8",
+    "source": "氯吡格雷",
+    "target": "皮下出血",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见皮下出血不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_c6ebdaba",
+    "source": "氯吡格雷",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_c0a81cc6",
+    "source": "氯吡格雷",
+    "target": "肝病",
+    "type": "CAUTION_FOR",
+    "description": "肝病患者慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_f89b8253",
+    "source": "氯吡格雷",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌酒精刺激",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_42d1fdf7",
+    "source": "氯吡格雷",
+    "target": "奥美拉唑",
+    "type": "INTERACTS_WITH",
+    "description": "不与奥美拉唑联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_37_0"
+    ]
+  },
+  {
+    "id": "rel_69d01bc6",
+    "source": "阿托伐他汀钙片",
+    "target": "阿托伐他汀钙",
+    "type": "CONTAINS",
+    "description": "阿托伐他汀钙片含有阿托伐他汀钙成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_51b0d590",
+    "source": "阿托伐他汀钙片",
+    "target": "高血脂",
+    "type": "TREATS",
+    "description": "用于治疗高血脂",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_4a394716",
+    "source": "阿托伐他汀钙片",
+    "target": "冠心病",
+    "type": "TREATS",
+    "description": "用于治疗冠心病",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_ef46741f",
+    "source": "阿托伐他汀钙片",
+    "target": "肝损",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肝损伤患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_7b615b10",
+    "source": "阿托伐他汀钙片",
+    "target": "肌肉疼痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "可能引起肌肉疼痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_81ea6650",
+    "source": "阿托伐他汀钙片",
+    "target": "孕妇",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "孕妇禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_ac1ac243",
+    "source": "阿托伐他汀钙片",
+    "target": "肝病",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肝病患者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_3ea82c09",
+    "source": "阿托伐他汀钙片",
+    "target": "低脂饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "建议低脂饮食，但非冲突，此处为建议，但关系类型有限，暂用FOOD_CONFLICT_WITH表示饮食建议",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_86dcb272",
+    "source": "阿托伐他汀钙片",
+    "target": "贝特类",
+    "type": "INTERACTS_WITH",
+    "description": "不与贝特类联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_023ad1a1",
+    "source": "阿托伐他汀钙片",
+    "target": "20mg",
+    "type": "HAS_DOSAGE",
+    "description": "每片剂量20mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_38_0"
+    ]
+  },
+  {
+    "id": "rel_9264b93a",
+    "source": "非洛地平缓释片",
+    "target": "非洛地平",
+    "type": "CONTAINS",
+    "description": "非洛地平缓释片含有非洛地平成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_9010d6ce",
+    "source": "非洛地平缓释片",
+    "target": "高血压",
+    "type": "TREATS",
+    "description": "非洛地平缓释片用于治疗高血压",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_84280dd7",
+    "source": "非洛地平缓释片",
+    "target": "过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_b94eee7b",
+    "source": "非洛地平缓释片",
+    "target": "脚踝水肿",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见脚踝水肿不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_269290b6",
+    "source": "非洛地平缓释片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_d632adc0",
+    "source": "非洛地平缓释片",
+    "target": "低盐饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "建议低盐饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_75aa0772",
+    "source": "非洛地平缓释片",
+    "target": "其他降压药",
+    "type": "INTERACTS_WITH",
+    "description": "不与其他降压药叠加使用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_08c77da5",
+    "source": "非洛地平缓释片",
+    "target": "5mg",
+    "type": "HAS_DOSAGE",
+    "description": "缓释片规格为5mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_39_0"
+    ]
+  },
+  {
+    "id": "rel_e8bf8d78",
+    "source": "比索洛尔片",
+    "target": "比索洛尔",
+    "type": "CONTAINS",
+    "description": "比索洛尔片含有成分比索洛尔",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_038adde7",
+    "source": "比索洛尔片",
+    "target": "康忻",
+    "type": "CONTAINS",
+    "description": "比索洛尔片的商品名是康忻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_56947ca7",
+    "source": "比索洛尔片",
+    "target": "高血压",
+    "type": "TREATS",
+    "description": "比索洛尔片用于治疗高血压",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_3b521832",
+    "source": "比索洛尔片",
+    "target": "心绞痛",
+    "type": "TREATS",
+    "description": "比索洛尔片用于治疗心绞痛",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_17e441b9",
+    "source": "比索洛尔片",
+    "target": "哮喘",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "哮喘患者禁用比索洛尔片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_8117ab09",
+    "source": "比索洛尔片",
+    "target": "心动过缓",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "心动过缓患者禁用比索洛尔片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_77d13ddb",
+    "source": "比索洛尔片",
+    "target": "乏力",
+    "type": "RISK_FOR_DISEASE",
+    "description": "比索洛尔片偶见乏力不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_9f3e182e",
+    "source": "比索洛尔片",
+    "target": "失眠",
+    "type": "RISK_FOR_DISEASE",
+    "description": "比索洛尔片偶见失眠不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_2360a94d",
+    "source": "比索洛尔片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用比索洛尔片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_950b9ffd",
+    "source": "比索洛尔片",
+    "target": "低盐饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用比索洛尔片时建议低盐饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_7fb582fb",
+    "source": "比索洛尔片",
+    "target": "硝苯地平",
+    "type": "INTERACTS_WITH",
+    "description": "比索洛尔片不宜与硝苯地平联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_b6333b2d",
+    "source": "比索洛尔片",
+    "target": "5mg",
+    "type": "HAS_DOSAGE",
+    "description": "比索洛尔片规格为5mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_40_0"
+    ]
+  },
+  {
+    "id": "rel_dcb55fcc",
+    "source": "阿卡波糖片",
+    "target": "阿卡波糖",
+    "type": "CONTAINS",
+    "description": "阿卡波糖片含有阿卡波糖成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_a90c6854",
+    "source": "阿卡波糖片",
+    "target": "2型糖尿病",
+    "type": "TREATS",
+    "description": "阿卡波糖片用于治疗2型糖尿病",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_6e90097f",
+    "source": "阿卡波糖片",
+    "target": "肠炎",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肠炎患者禁用阿卡波糖片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_9242a30d",
+    "source": "阿卡波糖片",
+    "target": "肠梗阻",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "肠梗阻患者禁用阿卡波糖片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_8fbe7c13",
+    "source": "阿卡波糖片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用阿卡波糖片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_33a38a1f",
+    "source": "阿卡波糖片",
+    "target": "肝功能不全者",
+    "type": "CAUTION_FOR",
+    "description": "肝功能不全者慎用阿卡波糖片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_35bee564",
+    "source": "阿卡波糖片",
+    "target": "腹胀",
+    "type": "RISK_FOR_DISEASE",
+    "description": "阿卡波糖片可能引起腹胀",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_8f070636",
+    "source": "阿卡波糖片",
+    "target": "排气增多",
+    "type": "RISK_FOR_DISEASE",
+    "description": "阿卡波糖片可能引起排气增多",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_e960f6a9",
+    "source": "阿卡波糖片",
+    "target": "低糖饮食",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "服用阿卡波糖片期间建议低糖饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_3a51c35f",
+    "source": "阿卡波糖片",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "阿卡波糖片不与酒精联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_4f6d3714",
+    "source": "阿卡波糖片",
+    "target": "50mg",
+    "type": "HAS_DOSAGE",
+    "description": "阿卡波糖片规格为50mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_84d28bb8",
+    "source": "阿卡波糖片",
+    "target": "一日3次一次1片",
+    "type": "HAS_DOSAGE",
+    "description": "阿卡波糖片用法为一日3次一次1片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_41_0"
+    ]
+  },
+  {
+    "id": "rel_4c401f94",
+    "source": "瑞格列奈片",
+    "target": "瑞格列奈",
+    "type": "CONTAINS",
+    "description": "瑞格列奈片含有瑞格列奈成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_1987025d",
+    "source": "瑞格列奈片",
+    "target": "2型糖尿病",
+    "type": "TREATS",
+    "description": "用于2型糖尿病降糖",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_efc2e1f5",
+    "source": "瑞格列奈片",
+    "target": "低血糖",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见低血糖不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_0d46a1a3",
+    "source": "瑞格列奈片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_e13e085a",
+    "source": "瑞格列奈片",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_5e7c97c7",
+    "source": "瑞格列奈片",
+    "target": "过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_d17725c4",
+    "source": "瑞格列奈片",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "不与酒精联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_9733c5ba",
+    "source": "瑞格列奈片",
+    "target": "低糖饮食",
+    "type": "INTERACTS_WITH",
+    "description": "建议低糖饮食",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_118b42b6",
+    "source": "瑞格列奈片",
+    "target": "1mg",
+    "type": "HAS_DOSAGE",
+    "description": "每片剂量1mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_b1d46e9e",
+    "source": "瑞格列奈片",
+    "target": "一日3次一次1片",
+    "type": "HAS_DOSAGE",
+    "description": "口服一日3次一次1片",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_e0f431d7",
+    "source": "瑞格列奈片",
+    "target": "饭前15分钟服用",
+    "type": "HAS_DOSAGE",
+    "description": "建议饭前15分钟服用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_42_0"
+    ]
+  },
+  {
+    "id": "rel_c9d032a8",
+    "source": "孟鲁司特钠片",
+    "target": "孟鲁司特钠",
+    "type": "CONTAINS",
+    "description": "孟鲁司特钠片含有孟鲁司特钠成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_3269565a",
+    "source": "孟鲁司特钠片",
+    "target": "哮喘",
+    "type": "TREATS",
+    "description": "用于治疗哮喘",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_f973c4ff",
+    "source": "孟鲁司特钠片",
+    "target": "过敏性鼻炎",
+    "type": "TREATS",
+    "description": "用于治疗过敏性鼻炎",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_6338451c",
+    "source": "孟鲁司特钠片",
+    "target": "过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_85eed94b",
+    "source": "孟鲁司特钠片",
+    "target": "头痛",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见头痛不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_f7d7b2a4",
+    "source": "孟鲁司特钠片",
+    "target": "兴奋",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见兴奋不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_ec68974c",
+    "source": "孟鲁司特钠片",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_069f2781",
+    "source": "孟鲁司特钠片",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_88e68bef",
+    "source": "孟鲁司特钠片",
+    "target": "过敏原",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌过敏原",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_21584f32",
+    "source": "孟鲁司特钠片",
+    "target": "吸入激素",
+    "type": "INTERACTS_WITH",
+    "description": "可与吸入激素联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_be9bf2dc",
+    "source": "孟鲁司特钠片",
+    "target": "10mg",
+    "type": "HAS_DOSAGE",
+    "description": "片剂剂量为10mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_43_0"
+    ]
+  },
+  {
+    "id": "rel_b58a32ac",
+    "source": "布地奈德混悬液",
+    "target": "布地奈德",
+    "type": "CONTAINS",
+    "description": "布地奈德混悬液含有成分布地奈德",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_01bb6b86",
+    "source": "布地奈德混悬液",
+    "target": "哮喘",
+    "type": "TREATS",
+    "description": "布地奈德混悬液用于治疗哮喘",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_bacd1423",
+    "source": "布地奈德混悬液",
+    "target": "慢阻肺",
+    "type": "TREATS",
+    "description": "布地奈德混悬液用于治疗慢阻肺",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_9b02a1fb",
+    "source": "布地奈德混悬液",
+    "target": "过敏者",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用布地奈德混悬液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_31d718c6",
+    "source": "布地奈德混悬液",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用布地奈德混悬液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_ba7935dd",
+    "source": "布地奈德混悬液",
+    "target": "儿童",
+    "type": "CAUTION_FOR",
+    "description": "儿童慎用布地奈德混悬液",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_025ca6c5",
+    "source": "布地奈德混悬液",
+    "target": "口腔真菌感染",
+    "type": "RISK_FOR_DISEASE",
+    "description": "布地奈德混悬液偶见口腔真菌感染风险",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_46170e21",
+    "source": "布地奈德混悬液",
+    "target": "支气管扩张剂",
+    "type": "INTERACTS_WITH",
+    "description": "布地奈德混悬液可与支气管扩张剂联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_bdf6e3a8",
+    "source": "布地奈德混悬液",
+    "target": "1mg",
+    "type": "HAS_DOSAGE",
+    "description": "布地奈德混悬液的规格为1mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_44_0"
+    ]
+  },
+  {
+    "id": "rel_8d9e8288",
+    "source": "博利康尼",
+    "target": "特布他林",
+    "type": "CONTAINS",
+    "description": "博利康尼是特布他林的商品名",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_0a552c3f",
+    "source": "特布他林",
+    "target": "支气管哮喘",
+    "type": "TREATS",
+    "description": "特布他林用于治疗支气管哮喘",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_5c02241d",
+    "source": "特布他林",
+    "target": "心动过速",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "心动过速患者禁用特布他林",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_f1aa9f67",
+    "source": "特布他林",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用特布他林",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_0a51175a",
+    "source": "特布他林",
+    "target": "心慌",
+    "type": "RISK_FOR_DISEASE",
+    "description": "特布他林偶见心慌不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_9f9cb060",
+    "source": "特布他林",
+    "target": "手抖",
+    "type": "RISK_FOR_DISEASE",
+    "description": "特布他林偶见手抖不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_1bf9819a",
+    "source": "特布他林",
+    "target": "刺激物",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "特布他林使用时应避免刺激物",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_c73a951e",
+    "source": "特布他林",
+    "target": "5mg",
+    "type": "HAS_DOSAGE",
+    "description": "特布他林雾化液规格为5mg",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_ead6846e",
+    "source": "特布他林",
+    "target": "雾化吸入一次1支一日2次",
+    "type": "HAS_DOSAGE",
+    "description": "特布他林的用法用量",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_45_0"
+    ]
+  },
+  {
+    "id": "rel_a75dfb23",
+    "source": "氨溴索注射液",
+    "target": "氨溴索",
+    "type": "CONTAINS",
+    "description": "氨溴索注射液含有氨溴索成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_4dd62b68",
+    "source": "氨溴索注射液",
+    "target": "痰多排痰困难",
+    "type": "TREATS",
+    "description": "用于痰多排痰困难",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_3c85dd32",
+    "source": "氨溴索注射液",
+    "target": "过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_54bcf04f",
+    "source": "氨溴索注射液",
+    "target": "恶心呕吐",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见恶心呕吐不良反应",
+    "weight": 0.5,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_bbc1ba1b",
+    "source": "氨溴索注射液",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_4a90892b",
+    "source": "氨溴索注射液",
+    "target": "甜食油腻",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌甜食油腻",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_2c6bf212",
+    "source": "氨溴索注射液",
+    "target": "抗生素",
+    "type": "INTERACTS_WITH",
+    "description": "可与抗生素联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_46_0"
+    ]
+  },
+  {
+    "id": "rel_5add2d50",
+    "source": "头孢曲松钠注射液",
+    "target": "头孢曲松钠",
+    "type": "CONTAINS",
+    "description": "头孢曲松钠注射液含有头孢曲松钠成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_bf1744b3",
+    "source": "头孢曲松钠注射液",
+    "target": "罗氏芬",
+    "type": "BELONGS_TO_CLASS",
+    "description": "罗氏芬是头孢曲松钠注射液的商品名",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_74e1ed84",
+    "source": "头孢曲松钠注射液",
+    "target": "细菌感染",
+    "type": "TREATS",
+    "description": "用于治疗细菌感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_79eba10d",
+    "source": "头孢曲松钠注射液",
+    "target": "头孢过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "头孢过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_a60c51e1",
+    "source": "头孢曲松钠注射液",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_a89803cd",
+    "source": "头孢曲松钠注射液",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "禁酒7天",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_a33c366d",
+    "source": "头孢曲松钠注射液",
+    "target": "钙剂",
+    "type": "INTERACTS_WITH",
+    "description": "不与钙剂联用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_dbc1b5b8",
+    "source": "头孢曲松钠注射液",
+    "target": "发热",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见发热不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_348f72e1",
+    "source": "头孢曲松钠注射液",
+    "target": "皮疹",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见皮疹不良反应",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_47_0"
+    ]
+  },
+  {
+    "id": "rel_ceff8da3",
+    "source": "青霉素钠注射液",
+    "target": "青霉素钠",
+    "type": "CONTAINS",
+    "description": "青霉素钠注射液含有青霉素钠成分",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  },
+  {
+    "id": "rel_f6bb92e0",
+    "source": "青霉素钠注射液",
+    "target": "细菌感染",
+    "type": "TREATS",
+    "description": "青霉素钠注射液用于治疗细菌感染",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  },
+  {
+    "id": "rel_809dbc88",
+    "source": "青霉素钠注射液",
+    "target": "青霉素过敏",
+    "type": "CONTRAINDICATED_FOR",
+    "description": "青霉素过敏者禁用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  },
+  {
+    "id": "rel_0f515c53",
+    "source": "青霉素钠注射液",
+    "target": "过敏休克",
+    "type": "RISK_FOR_DISEASE",
+    "description": "偶见过敏休克风险",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  },
+  {
+    "id": "rel_90b770e4",
+    "source": "青霉素钠注射液",
+    "target": "孕妇",
+    "type": "CAUTION_FOR",
+    "description": "孕妇慎用",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  },
+  {
+    "id": "rel_2ce5cf5d",
+    "source": "青霉素钠注射液",
+    "target": "酒精",
+    "type": "FOOD_CONFLICT_WITH",
+    "description": "忌酒精刺激",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  },
+  {
+    "id": "rel_703d45a5",
+    "source": "青霉素钠注射液",
+    "target": "80万单位",
+    "type": "HAS_DOSAGE",
+    "description": "注射液80万单位，肌内注射一次1支一日2次",
+    "weight": 1.0,
+    "text_unit_ids": [
+      "tu_doc_48_0"
+    ]
+  }
+]

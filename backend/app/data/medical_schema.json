@@ -1,0 +1,25 @@
+{
+  "entity_types": [
+    "Drug",
+    "Ingredient",
+    "DrugClass",
+    "Disease",
+    "Population",
+    "Food",
+    "Symptom",
+    "Risk",
+    "Dosage",
+    "Contraindication"
+  ],
+  "relationship_types": [
+    "CONTAINS",
+    "BELONGS_TO_CLASS",
+    "TREATS",
+    "INTERACTS_WITH",
+    "RISK_FOR_DISEASE",
+    "CAUTION_FOR",
+    "CONTRAINDICATED_FOR",
+    "FOOD_CONFLICT_WITH",
+    "HAS_DOSAGE"
+  ]
+}
