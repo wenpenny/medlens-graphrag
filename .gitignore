@@ -88,3 +88,5 @@ htmlcov/
 
 # MedLens specific - reference implementation (not part of this project)
 graphrag-main/
+
+.claude
